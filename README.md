@@ -7,7 +7,7 @@ This repository contains the datasets made available for the swiss digital day h
 https://sites.google.com/view/sdd18zhhackathon/challenges
 
 ### Google Search Terms related to zh.ch
-This dataset contains search terms, clicks, impressions etc. related to all the different subdomains of the different units of the cantonal public administration. The timespans covered may among subdomains.
+This dataset contains search terms, clicks, impressions etc. related to all the different subdomains of the different units of the cantonal public administration. The timespans covered differs among subdomains.
 
 [data](https://raw.githubusercontent.com/statistikZH/SDD2018ZHHACK/master/google_search.csv) __(caveat: varying timespan for different zh.ch domains!)__
 
