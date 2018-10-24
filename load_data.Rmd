@@ -1,0 +1,35 @@
+---
+title: "load_kapo_&_statistik_data"
+output: html_document
+---
+
+
+#load google search terms for all the subdomains of zh.ch
+```{r}
+
+zhsearchterms<-read.csv("google_search.csv")
+
+```
+
+
+#zh.ch topics (offical language)
+```{r}
+
+zhtopics <-read.csv("zhch_topics_a-z.csv")
+
+```
+
+
+#load search & web traffic datasets of the cantonal police and the statistical office
+```{r}
+
+filenames <- gsub("\\.csv$","", list.files(path = "./kapo_statistik_webanalytics&search/",pattern="\\.csv$"))
+
+# load datasets
+for(i in filenames){
+  assign(i, read.csv(paste("./kapo_statistik_webanalytics&search/",i, ".csv", sep="")))
+}
+
+```
+
+

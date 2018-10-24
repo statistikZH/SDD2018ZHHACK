@@ -18,3 +18,5 @@ This dataset contains search terms, clicks, impressions etc. related to all the 
 ### List of Topics (A-Z) → “official language”
 
 [data](https://raw.githubusercontent.com/statistikZH/SDD2018ZHHACK/master/zhch_topics_a-z.csv)
+
+

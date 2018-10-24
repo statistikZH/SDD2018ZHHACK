@@ -1,0 +1,511 @@
+Bezeichnung,Eindeutige Seitenansichten,Seitenansichten,Von Besuchern verbrachte Gesamtzeit (in Sekunden),In den Suchergebnissen angeklickt,nb_hits_with_time_generation,min_time_generation,max_time_generation,Eingänge,Aktionen nach Eingang hier,Von Besuchern verbrachte Gesamtzeit (in Sekunden) nach Eingang hier,Absprünge,Ausstiege,Eindeutige Besucher (Tagessumme),Eindeutige Einstiege (Tagessumme),Eindeutige Ausstiege (Tagessumme),Durchschnittszeit pro Seite,Absprungsrate,Ausstiegsrate,Durchschnittliche Generierungszeit
+Polizistin/Polizist,21251,30995,1294914,48,29398,0.001,19.383,18557,29558,973815,14505,19965,19313,17072,18180,42,78%,94%,0.126
+Kantonspolizei Zürich,18928,65168,5950264,218,51189,0.001,40.986,17895,113703,7637371,7040,10695,15472,14597,8411,91,39%,57%,0.051
+Medienmitteilungen,9432,14748,446696,13,12754,0.001,10.61,6196,19848,662114,3016,5745,7585,4562,4429,30,49%,61%,0.088
+Aktuell,9181,12782,382416,32,11550,0.001,13.748,7185,19499,589343,3646,5838,7999,6209,5118,30,51%,64%,0.092
+Jobs,3698,5367,80246,16,4802,0.001,4.64,1406,7264,288208,71,362,3472,1328,345,15,5%,10%,0.061
+Alle offenen Stellen,3238,4517,266806,3,3949,0.001,11.818,917,2235,89632,517,1970,3039,832,1824,59,56%,61%,0.074
+Sicherheitsbeauftragte der Flughafenpolizei (SBF),3139,8612,550513,10,7613,0.001,5.791,2124,9008,475925,759,2214,2816,1911,1968,64,36%,71%,0.114
+Zürich 1, Hauptbahnhof: Sturz vom Dach fordert Todesopfer,1830,2002,67097,1,1897,0.001,12.488,1130,1335,22873,1032,1345,1781,1109,1308,34,91%,73%,0.151
+Verkehrsbussen,1793,2279,149382,17,2156,0.001,12.883,1644,3604,160258,634,1591,1723,1580,1528,66,39%,89%,0.156
+Zürich: Vermisst wird Paris Rachel Jennifer,1709,2000,48008,,1909,0.001,8.748,1065,1581,27810,854,1131,1681,1059,1124,24,80%,66%,0.113
+Brütten: Mädchen bei Arbeitsunfall gestorben - Zeugenaufruf,1667,1806,71468,1,1702,0.001,5.664,868,1291,74479,770,1119,1578,832,1050,40,89%,67%,0.131
+Illnau: Autolenker verursacht Selbstunfall - Zeugenaufruf,1390,2091,90404,1,1816,0.001,20.832,648,990,29596,505,936,1341,624,902,43,78%,67%,0.097
+Suche/Archiv (Medienmitteilungen ab 2011),1365,5061,89149,3,4415,0.001,18.029,128,465,10402,71,643,1295,122,604,18,55%,47%,0.98
+Kontakt,1354,1772,90865,28,1590,0.001,18.396,494,1364,70113,282,695,1289,472,657,51,57%,51%,0.119
+Urdorf: Zwei Männer bei Arbeitsunfall lebensgefährlich verletzt,1314,1529,72219,,1449,0.001,8.913,695,1015,35194,572,859,1210,630,779,47,82%,65%,0.151
+Sicherheitsassistenz Grenzkontrolle,1256,3283,99769,3,2848,0.001,4.984,442,1771,68944,183,550,1181,399,501,30,41%,44%,0.164
+Sicherheitsassistenz Polizeigefängnis,1240,2980,125362,2,2642,0.001,75.232,560,1936,108090,272,600,1123,471,498,42,49%,48%,0.229
+Dietlikon: Velofahrerin nach Verkehrsunfall verstorben - Zeugenaufruf,1205,1694,88994,2,1484,0.001,9.135,444,677,26298,339,765,1162,432,737,53,76%,63%,0.103
+Seuzach: Brand eines landwirtschaftlichen Betriebsgebäudes,1192,2809,112594,,2205,0.001,13.426,639,1995,51134,363,887,1120,609,839,40,57%,74%,0.086
+Über uns,1083,1579,67432,7,1355,0.001,8.019,99,497,14860,47,288,1054,94,276,43,47%,27%,0.078
+Wald: Selbstunfall zieht komplizierte Rettungsaktion nach sich,1068,2609,102546,,1967,0.001,3.658,400,1179,33133,241,635,1015,376,592,39,60%,59%,0.061
+Wald: Zwei Verletzte bei Verkehrsunfall - Zeugenaufruf,1068,1540,73532,,1340,0.001,2.642,419,649,23072,320,714,995,389,660,48,76%,67%,0.084
+Vermisste Personen,1059,1619,70188,7,1368,0.001,4.718,432,1335,49486,196,431,1012,400,397,43,45%,41%,0.117
+Online-Polizeiposten,1026,1237,77722,24,1131,0.001,180.534,533,1331,55614,178,574,1003,523,562,63,33%,56%,0.283
+Pfäffikon: Bewaffneter Raubüberfall - Zeugenaufruf,1026,1172,43568,,1115,0.001,8.513,557,721,22878,486,682,979,528,650,37,87%,66%,0.117
+Zivile Anstellungen,954,1235,69653,3,1096,0.001,7.23,193,588,20763,86,382,939,191,377,56,45%,40%,0.107
+Gossau: Verkehrsunfall fordert Schwerverletzten,928,2159,68589,,1591,0.001,16.95,334,834,18157,210,458,903,324,443,32,63%,49%,0.108
+Wallisellen: Vermisstmeldung – Peter BERTA,840,1042,35859,1,904,0.001,4.737,328,429,9647,284,516,801,320,493,34,87%,61%,0.098
+Wädenswil sowie Autobahn A3 Richterswil - Lachen - Horgen: Personenwagenlenker verursacht mehrere Kollisionen - Zeugenaufruf,813,897,28134,,855,0.001,2.673,358,424,5043,330,489,801,354,481,31,92%,60%,0.086
+Volketswil: Verkehrsunfall fordert Verletzten - Zeugenaufruf,745,981,33909,,884,0.001,6.941,382,517,9019,329,529,732,377,522,35,86%,71%,0.13
+Dübendorf: Revokation Vermisstmeldung,710,854,18288,1,774,0.001,2.174,145,395,5459,82,257,702,145,255,21,57%,36%,0.08
+Hinwil: Falschfahrer im Betzholzkreisel gestoppt,710,774,29688,,738,0.001,6.573,212,297,9251,186,355,702,211,350,38,88%,50%,0.108
+Bahnhof Oberglatt: Verwirrter Mann verursacht Nothalt der S9,703,795,30423,,751,0.001,17.214,316,350,4863,293,416,696,311,410,38,93%,59%,0.131
+Zürich: Revokation Vermisstmeldung,668,752,13210,,687,0.001,2.744,124,234,4133,81,227,661,124,227,18,65%,34%,0.086
+Wädenswil: Selbstunfall mit Personenwagen,666,1312,43157,,1029,0.001,10.26,191,375,8328,119,327,645,184,313,33,62%,49%,0.111
+Herrliberg: Vermisstmeldung,630,708,17870,,637,0.001,2.298,196,290,5199,157,242,626,195,240,25,80%,38%,0.115
+Flughafenpolizei,613,831,36000,9,733,0.001,5.167,374,1419,54126,169,298,590,359,287,43,45%,49%,0.302
+Otelfingen: Fussgängerin nach Verkehrsunfall verstorben,603,718,22485,,677,0.001,1.432,136,173,4975,118,292,592,136,288,31,87%,48%,0.07
+Standorte,595,906,23816,5,782,0.001,4.779,85,387,15774,29,133,579,84,130,26,34%,22%,0.128
+Oberrieden: Schwerverletzter nach Arbeitsunfall,571,646,29809,1,596,0.001,7.8,153,227,5909,122,253,563,153,250,46,80%,44%,0.125
+Mettmenstetten: Geschwindigkeitskontrolle - Schnellfahrer gestoppt,568,678,21759,,633,0.001,1.182,196,258,1652,175,329,564,196,327,32,89%,58%,0.074
+Herrliberg: Revokation Vermisstmeldung,558,645,11494,,594,0.001,2.054,66,119,1929,43,163,554,64,160,18,65%,29%,0.094
+Gesuchte Straftäter,555,719,21690,5,623,0.001,5.296,6,12,2037,3,127,548,6,126,30,50%,23%,0.182
+Kriminalmuseum,554,687,47483,4,612,0.001,2.976,471,893,48354,295,462,533,453,443,69,63%,83%,0.116
+Kriminalpolizei,550,827,43042,10,744,0.001,4.993,283,913,38440,116,209,513,251,203,52,41%,38%,0.254
+Andere,547,625,26480,11,574,0.001,12.575,283,533,17401,222,294,519,265,278,42,78%,54%,0.706
+Bezirk Andelfingen: Mutmassliche Drogenhändler verhaftet,546,793,43691,,673,0.001,3.495,148,235,16155,100,250,523,128,227,55,68%,46%,0.137
+Zollikon: Verkehrsunfall fordert verletzten Motorradfahrer - Zeugenaufruf,545,779,28193,,637,0.001,2.752,122,174,1974,95,290,530,118,281,36,78%,53%,0.108
+Waffen,538,688,67458,12,621,0.001,16.385,439,960,58478,256,442,516,424,426,98,58%,82%,0.209
+Fragen & Antworten,518,681,11081,3,586,0.001,5.326,27,60,3257,14,51,509,26,47,16,52%,10%,0.171
+Hombrechtikon: Motorradfahrer bei Selbstunfall verletzt - Zeugenaufruf,464,721,31267,,585,0.001,3.677,65,99,4189,45,232,448,62,220,43,69%,50%,0.074
+Stützpunkte der Verkehrspolizei,463,617,33263,4,559,0.001,4.956,216,537,21319,121,239,442,202,228,54,56%,52%,0.375
+Bezirk Zürich,454,700,36659,7,632,0.001,5.179,244,729,29672,132,279,419,224,254,52,54%,61%,0.296
+Prävention,452,643,20691,2,552,0.001,1.769,80,321,10172,39,102,442,77,96,32,49%,23%,0.126
+Erlebnisse,450,922,26621,2,798,0.001,3.57,42,104,9865,23,138,437,41,132,29,55%,31%,0.283
+Zeugenaufrufe,422,551,16383,1,475,0.001,40.254,30,149,3601,12,103,413,28,100,30,40%,24%,0.296
+Organisation,382,608,10529,3,502,0.001,1.749,36,243,8439,9,43,377,36,43,17,25%,11%,0.135
+Bezirk Bülach,374,626,33208,5,552,0.001,8.677,273,729,34123,148,258,351,254,238,53,54%,69%,0.44
+Bezirk Winterthur,357,600,30351,9,554,0.001,11.789,263,767,31726,131,256,336,245,236,51,50%,72%,0.383
+Kontaktformular Kantonspolizei Zürich,350,525,60481,,451,0.001,22.338,46,110,6789,24,129,333,43,121,115,52%,37%,0.462
+Dokument nicht auffindbar (Error 404),346,498,15189,,482,0.001,1.667,276,1028,50244,129,187,335,268,181,31,47%,54%,0.084
+Lehrstellen,346,424,11289,1,366,0.001,3.408,47,93,3315,27,91,340,45,88,27,57%,26%,0.256
+Opfikon: Fussgängerin bei Verkehrsunfall schwer verletzt - Zeugenaufruf,343,391,16248,,349,0.001,2.434,79,129,5719,55,134,329,77,128,42,70%,39%,0.16
+Uster: Mutmassliche Einbrecherinnen verhaftet,329,370,12419,,346,0.001,2.543,87,114,3523,77,145,327,87,143,34,89%,44%,0.137
+Verkehrspolizei,318,542,23479,8,460,0.001,32.158,72,250,13411,29,87,315,71,86,43,40%,27%,0.277
+Kontaktformular Personalgewinnung,316,379,35672,2,339,0.001,15.727,28,93,5906,14,73,303,25,68,94,50%,23%,0.372
+Aktuelle Fragen,307,472,13334,3,374,0.001,2.514,14,27,2145,10,53,302,13,52,28,71%,17%,0.182
+Cybercrime,304,384,36761,10,361,0.001,6.836,215,470,28113,124,229,286,202,215,96,58%,75%,0.121
+Seepolizei,285,469,19314,5,402,0.001,48.208,196,666,24897,89,166,276,189,160,41,45%,58%,0.364
+Dübendorf: Kollision fordert schwer verletzten Motorradfahrer - Zeugenaufruf,278,395,12021,,323,0.001,1.818,49,87,1175,36,112,270,47,109,30,73%,40%,0.123
+Unser Dienst,278,747,23841,9,633,0.001,32.268,165,543,20316,87,161,269,158,155,32,53%,58%,0.439
+Informationsbroschüren,275,338,30451,1,295,0.001,2.235,21,63,1502,12,118,265,20,112,90,57%,43%,0.33
+Medien,266,328,23429,3,309,0.001,7.07,97,323,10868,48,137,255,91,130,71,49%,52%,0.32
+Private Ausnahmetransportbegleiter,257,669,63600,16,552,0.001,2.072,207,1044,67235,51,211,234,187,190,95,25%,82%,0.223
+Sicherheitspolizei,248,373,14451,2,321,0.001,2.297,46,198,7036,19,58,244,44,56,39,41%,23%,0.241
+Kommandant Thomas Würgler,247,391,17280,2,329,0.001,4.308,43,185,10485,19,56,243,43,56,44,44%,23%,0.249
+Bezirk Uster,246,411,16583,6,372,0.001,2.736,168,509,14914,93,170,230,153,156,40,55%,69%,0.409
+Bestätigung,241,256,8220,1,231,0.001,10.991,25,39,1866,21,191,229,23,180,32,84%,79%,0.928
+Wichtige Punkte zum sicheren Radwechsel,237,271,11063,,266,0.002,6.482,212,242,5572,197,210,237,212,210,41,93%,89%,0.157
+Bezirk Dielsdorf,228,410,19150,3,378,0.001,9.176,173,509,20412,96,168,213,162,155,47,55%,74%,0.493
+Fachstellen und -bereiche,223,302,6862,4,267,0.001,2.635,5,29,925,1,13,222,5,12,23,20%,6%,0.185
+Aktuelles der Prävention,221,336,24141,2,279,0.001,1.909,68,249,21863,33,80,218,68,79,72,49%,36%,0.116
+IST - Interventionsstelle gegen Häusliche Gewalt,221,289,12235,3,254,0.001,4.034,168,496,23471,101,128,200,150,119,42,60%,58%,0.154
+Wallisellen: Vermisstmeldung,213,271,6217,,240,0.001,2.224,58,234,6257,27,73,205,54,70,23,47%,34%,0.19
+Sturmwarnung,210,287,3258,1,266,0.001,3.077,103,246,4975,39,127,199,92,117,11,38%,60%,0.175
+Bezirk Dietikon,205,332,14447,5,307,0.001,5.867,150,438,14629,79,147,194,143,139,44,53%,72%,0.497
+Bezirk Hinwil,203,343,13115,3,301,0.001,3.631,139,359,11963,69,132,195,136,128,38,50%,65%,0.376
+Kommandobereich 1,203,240,6776,4,219,0.001,5.135,14,58,2675,8,23,202,14,23,28,57%,11%,0.329
+Bezirk Pfäffikon,197,343,18673,6,325,0.001,3.762,140,420,19886,69,130,189,132,122,54,49%,66%,0.365
+Linksammlung,197,261,3343,2,219,0.001,1.67,3,4,119,2,21,194,2,19,13,67%,11%,0.17
+Videoüberwachung im öffentlichen Raum,193,218,5218,,191,0.001,2.157,1,1,0,1,29,193,1,29,24,100%,15%,0.264
+Watt: Raub auf Lebensmittelladen - Zeugenaufruf,192,218,6376,,209,0.001,15.045,51,67,1305,44,72,190,51,71,29,86%,38%,0.215
+Kriminalstatistik,189,254,25671,6,228,0.001,4.17,165,428,23962,57,167,185,162,164,101,35%,88%,0.345
+Regionalpolizei,183,229,12894,,185,0.001,5.187,21,73,4238,10,38,179,21,36,56,48%,21%,0.299
+Kriminalität,173,209,11170,2,188,0.001,7.107,4,10,1183,2,26,173,4,26,53,50%,15%,0.412
+Sicherheitsberatungen – Vorkehrungen und Verhaltensregeln,171,243,10125,3,211,0.001,6.996,68,222,8323,37,73,166,63,68,42,54%,43%,0.327
+Gewaltschutz,164,217,18046,,189,0.001,3.628,102,276,20996,60,111,158,97,105,83,59%,68%,0.272
+Bezirk Horgen,162,255,11912,5,227,0.001,2.499,120,348,10761,51,116,156,114,111,47,43%,72%,0.421
+Bezirk Affoltern,161,256,16101,2,225,0.001,9.158,118,266,11442,65,106,156,113,102,63,55%,66%,0.522
+Fussgängerkampagne „Senioren im Strassenverkehr“,161,187,6974,,174,0.001,1.916,15,21,68,13,59,159,14,59,37,87%,37%,0.12
+Zahlen & Fakten,160,221,20802,1,177,0.001,2.946,30,99,5304,12,67,156,30,67,94,40%,42%,0.33
+Bilder von der Polizeiarbeit,159,196,6914,,177,0.001,8.138,7,21,299,3,42,157,7,42,35,43%,26%,1.491
+Allgemein Kantonspolizei,155,186,9677,3,160,0.001,4.716,18,45,5976,6,40,138,7,29,52,33%,26%,0.288
+Herrliberg: Vermisstmeldung - Werner PETER,155,178,12520,,166,0.001,1.314,124,176,7014,114,135,154,123,135,70,92%,87%,0.14
+Bezirk Meilen,154,239,13759,3,215,0.001,2.694,111,251,6123,64,105,145,103,97,58,58%,68%,0.344
+Opfikon: Fussgänger bei Verkehrsunfall schwer verletzt - Zeugenaufruf,154,195,7542,,148,0.001,2.837,30,63,3144,18,52,142,25,46,39,60%,34%,0.274
+Strassenverkehr,154,229,13383,3,202,0.001,3.526,34,73,1178,20,65,148,33,61,58,59%,42%,0.272
+Geschwindigkeit,148,183,13898,5,168,0.001,3.774,42,95,3685,19,83,144,42,81,76,45%,56%,0.318
+Führungen bei der Kantonspolizei,145,215,3203,,166,0.001,1.713,24,140,5924,1,21,142,24,21,15,4%,14%,0.173
+Zielgruppen,142,262,17163,3,244,0.001,3.67,101,285,13911,45,114,132,93,104,66,45%,80%,0.466
+Aktuelle Fahndungen,137,200,5950,4,190,0.001,7.145,117,539,12976,45,72,134,114,72,30,38%,53%,0.497
+Jugendintervention,136,188,8656,2,153,0.001,2.012,57,205,6868,25,45,131,53,42,46,44%,33%,0.056
+Kommandobereich 2,135,153,4172,,136,0.001,6.269,1,1,0,1,10,135,1,10,27,100%,7%,0.343
+Verkehrsleitzentrale,126,173,10166,,138,0.001,1.594,47,135,5397,24,45,119,44,43,59,51%,36%,0.222
+Herrliberg: Vermisstmeldung - Werner Willi PETER,123,138,3847,,130,0.002,0.709,85,101,1723,74,103,120,83,101,28,87%,84%,0.106
+Bezirk Andelfingen,122,185,3817,1,173,0.001,4.36,92,219,4516,47,85,112,84,76,21,51%,70%,0.43
+Wir gehen gegen Gewalttäter vor,121,141,7260,,131,0.001,1.869,33,66,1394,28,47,120,33,47,51,85%,39%,0.126
+Bewilligungen/Gesuche,119,154,8072,8,133,0.001,4.414,27,112,6660,9,40,118,27,40,52,33%,34%,0.358
+Tötungsdelikt in Zürich-West vom 20. März 2010 - Belohnung ausgesetzt - Zeugenaufruf,109,132,6139,,125,0.001,2.213,86,210,4352,54,78,109,86,78,47,63%,72%,0.197
+Kommunikationsabteilung,108,137,5153,1,123,0.001,2.058,19,61,2265,7,20,106,19,19,38,37%,19%,0.318
+Kinder- und Jugendinstruktion,106,139,2596,,124,0.001,2.209,43,251,7279,20,31,104,41,31,19,47%,29%,0.164
+Weiningen: Vermisstmeldung - Willi Müller,104,115,3440,,102,0.001,1.989,3,3,0,3,27,104,3,27,30,100%,26%,0.52
+Page Name not defined,102,238,0,,0,,0,,,,,,102,,,0,0%,0%,0
+Schwerpunkte,102,159,12872,5,132,0.001,7.057,47,95,2379,35,60,98,44,57,81,74%,59%,0.461
+Fachstelle Häusliche Gewalt,100,111,8192,1,99,0.001,1.798,57,127,5337,37,59,97,55,57,74,65%,59%,0.249
+Für die Sicherheit auf Zürcher Autobahnen,99,107,4615,,103,0.001,1.065,40,43,1089,38,62,97,40,60,43,95%,63%,0.115
+Gesuch Akteneinsicht in Polizeirapporte,97,138,11048,5,123,0.001,14.943,77,203,11762,49,67,95,75,65,80,64%,69%,0.502
+Dübendorf: Vermisst wird Jürg Spycher,95,112,2422,,100,0.001,2.998,10,24,635,4,24,95,10,24,22,40%,25%,0.524
+Fremde Autos auf dem Privatparkplatz?,94,102,5779,,97,0.002,2.665,93,141,6987,61,90,88,87,84,57,66%,96%,0.497
+Kontaktanfrage Verkehrsbussen,92,139,15055,,115,0.001,2.25,12,41,2729,4,31,89,12,29,108,33%,34%,0.419
+Präventionsabteilung,92,114,3815,4,99,0.001,1.878,12,42,322,6,21,92,12,21,33,50%,23%,0.275
+Stalking,92,112,6311,,105,0.001,10.665,81,162,6674,36,74,90,79,73,56,44%,80%,0.495
+Weitere Informationen,92,397,14624,6,301,0.001,65.532,49,83,4051,29,59,86,45,54,37,59%,64%,0.373
+Forensisches Institut Zürich,89,113,9120,1,102,0.001,2.032,35,92,4947,14,54,88,34,53,81,40%,61%,0.31
+Oberglatt: Tote identifiziert - Revokation Vermisstmeldung,82,86,1282,,80,0.001,2.517,4,8,77,3,17,81,4,17,15,75%,21%,0.398
+Verkehrsprävention,79,135,8061,3,117,0.001,41.636,42,109,4283,20,49,78,42,49,60,48%,62%,0.697
+Eisbulletin,77,87,1929,,76,0.001,1.879,3,3,0,3,13,77,3,13,22,100%,17%,0.327
+Hochfelden: 10‘000 Franken Belohnung in der Vermisstensache Mei HAN FORSTER,77,83,1970,,77,0.002,8.97,3,3,0,3,19,75,3,18,24,100%,25%,0.638
+Unsere Angebote,77,100,2327,,82,0.001,1.848,4,13,227,2,4,77,4,4,23,50%,5%,0.248
+Social Media,76,93,10095,,88,0.001,6.881,20,58,1182,9,33,74,20,33,109,45%,43%,0.476
+Betrug,71,75,3155,,72,0.002,1.89,39,77,3451,22,39,71,39,39,42,56%,55%,0.346
+Broschüren,71,95,3758,12,80,0.002,6.943,10,30,489,3,31,71,10,31,40,30%,44%,0.523
+Feedback FP,70,101,11123,,83,0.001,4.698,12,35,5321,6,22,66,12,21,110,50%,31%,0.614
+Fachstelle Brückenbauer (Interkulturelles Netzwerk),67,95,14286,1,84,0.001,1.774,36,58,8366,25,44,54,25,31,150,69%,66%,0.211
+Schifffahrt/Gewässer,67,81,6879,2,77,0.001,5.115,49,78,6477,31,51,64,46,49,85,63%,76%,0.464
+Polizeistellen,66,81,2056,2,67,0.001,2.849,5,30,1167,1,18,65,5,18,25,20%,27%,0.215
+Affoltern am Albis: Motorradlenker verletzt - Zeugenaufruf,65,88,1420,,57,0.002,4.365,18,50,468,13,25,57,16,22,16,72%,38%,0.457
+KAPO ZH - Eine Applikation für mobile Geräte,62,71,3912,,65,0.001,2.486,20,38,1750,12,29,61,19,28,55,60%,47%,0.383
+Bauma: Vermisstmeldung Natalija Osmajlic,61,64,2507,,58,0.001,3.303,,,,,10,61,,10,39,0%,16%,0.53
+Amtsstellen/Organisationen,58,68,2224,3,62,0.001,2.339,1,1,0,1,9,58,1,9,33,100%,16%,0.241
+Gesetze/Verordnungen,57,84,7378,4,68,0.002,4.158,25,75,4469,7,33,56,24,32,88,28%,58%,0.356
+IRE - Interventionsstelle gegen Radikalisierung und gewalttätigen Extremismus,55,67,8572,,58,0.001,2.548,36,72,6746,24,35,53,34,33,128,67%,64%,0.438
+Adressen und Links,54,128,5879,2,113,0.001,4.713,15,27,383,8,30,51,15,29,46,53%,56%,0.239
+Oberglatt: Tote Person gefunden,52,62,1639,,53,0.002,1.622,7,15,247,5,12,51,7,12,26,71%,23%,0.365
+Kontaktanfrage Verkehrspolizei,49,63,8509,1,57,0.001,2.746,1,2,3,0,10,48,1,10,135,0%,20%,0.531
+Laserpointer,49,57,2488,,56,0.001,1.753,39,48,2233,33,39,38,28,28,44,85%,80%,0.282
+Schusswaffen,49,60,1889,2,55,0.001,1.989,16,31,2662,9,26,47,16,24,31,56%,53%,0.233
+Bauma: Unfall fordert schwerverletzte Frau,47,59,913,,38,0.001,1.659,8,17,218,6,9,42,8,9,15,75%,19%,0.588
+Kinder im Strassenverkehr,47,55,3389,,55,0.002,1.911,36,49,1730,28,40,47,36,40,62,78%,85%,0.391
+Luftverkehr,47,55,2828,1,46,0.001,1.686,9,13,618,7,12,47,9,12,51,78%,26%,0.278
+Verfahren zur Identifikation von Fahrunfähigkeit,46,62,2915,,52,0.002,3.413,21,51,2567,14,25,42,20,24,47,67%,54%,0.506
+Verkehrsunfallstatistik,46,73,10173,2,58,0.001,5.288,30,72,5755,12,32,44,29,30,139,40%,70%,0.429
+Birmensdorf: Vermisstmeldung Dolma Tsering SHRESTHA BHUTIA,45,45,797,,38,0.002,5.774,,,,,10,45,,10,18,0%,22%,0.695
+Wallisellen: Raub auf Shop - Zeugenaufruf,45,59,2800,,57,0.001,1.894,11,17,183,10,15,44,10,15,47,91%,33%,0.502
+Winterthur: Frau nach Streit schwer verletzt - mutmasslicher Täter verhaftet,43,48,1604,,42,0.001,2.542,7,12,122,5,8,41,6,8,33,71%,19%,0.587
+Bei Verdacht Tel. 117 – Gemeinsam gegen Einbrecher,42,55,4422,3,50,0.001,5.053,34,62,4207,24,35,39,31,32,80,71%,83%,0.782
+Waffen jederzeit freiwillig abgeben,41,53,3532,2,49,0.001,1.282,31,56,1192,19,26,41,31,26,67,61%,63%,0.253
+Zürich: Vermisst wird Heidi Kerber,41,47,742,,44,0.001,2.036,3,10,106,2,4,41,3,4,16,67%,10%,0.381
+Einbruch,40,46,1177,1,43,0.001,1.812,16,35,2289,10,12,40,16,12,26,63%,30%,0.512
+Zürich 4: Ein Schwerverletzter nach Auseinandersetzung - Nachtrag,40,57,1107,,48,0.001,1.881,,,,,7,40,,7,19,0%,18%,0.409
+Fachdienst Menschenhandel,39,43,2482,,41,0.003,1.838,13,15,21,12,18,33,8,14,58,92%,46%,0.382
+Verkehr,39,55,1151,1,51,0.001,2.195,,,,,3,38,,2,21,0%,8%,0.229
+Bülach: Raubüberfall im Bahnhof,37,42,1459,,40,0.001,3.474,2,2,0,2,5,37,2,5,35,100%,14%,0.698
+Medienangebote,37,44,596,,39,0.002,1.597,1,2,12,0,5,36,1,5,14,0%,14%,0.473
+Hilfe und Beratung,36,94,4290,,70,0.001,4.522,1,1,0,1,5,35,1,5,46,100%,14%,0.394
+Oberglatt: Vermisstmeldung,36,40,915,,36,0.002,2.112,5,8,1893,3,9,35,5,8,23,60%,25%,0.447
+Vereidigung der Aspirantinnen und Aspiranten der Kantonspolizei Zürich,35,59,4989,2,53,0.003,1.844,25,75,6125,12,23,34,24,22,85,48%,66%,0.576
+Informationsveranstaltungen für Bewerberinnen und Bewerber,34,40,1071,,39,0.005,4.464,23,100,10278,1,2,31,22,2,27,4%,6%,0.642
+Zürich: Vermisst wird Angela Yanez Iza,34,50,1399,,38,0.001,1.772,,,,,5,34,,5,28,0%,15%,0.232
+Jugend & Gesetz,33,47,1370,,43,0.002,2.272,16,26,863,11,19,33,16,19,29,69%,58%,0.452
+Neftenbach: Fussgängerin nach Verkehrsunfall verstorben,32,33,1065,,31,0.001,1.388,7,8,3,6,14,30,7,12,32,86%,44%,0.379
+Vorausschauende Polizeiarbeit,32,39,905,1,36,0.002,3.222,4,7,218,2,4,32,4,4,23,50%,13%,0.415
+Adlikon b. Andelfingen: Polizei sucht Tankstellenräuber – Zeugenaufruf,31,32,350,,31,0.001,2.838,20,26,200,16,26,31,20,26,11,80%,84%,0.255
+Kontaktanfrage Kriminalpolizei,31,49,5927,,46,0.001,1.564,5,21,262,1,5,28,4,5,121,20%,16%,0.551
+Polizei ganz nah – Ein Blick in unseren Alltag,30,36,927,1,32,0.004,1.924,20,33,848,13,20,30,20,20,26,65%,67%,0.622
+Stammhaus,30,35,537,1,29,0.001,1.944,6,14,445,4,6,29,6,6,15,67%,20%,0.561
+Flyer - Stopp Häusliche Gewalt,29,35,3593,,31,0.001,1.786,3,6,17,1,14,28,3,13,103,33%,48%,0.414
+Fünf Stufen bis zur Anstellung,29,37,2240,,29,0.002,1.624,,,,,6,29,,6,61,0%,21%,0.369
+Lindau: Ein Toter bei Verkehrsunfall - Zeugenaufruf,29,34,1296,,32,0.001,2.056,12,21,814,8,16,28,12,15,38,67%,55%,0.559
+Suche/Archiv (Aktuelle Fragen ab 2017),29,68,1267,4,59,0.001,2.821,,,,,2,29,,2,19,0%,7%,0.336
+Kontaktanfrage Führungen Verkehrsleitzentrale,28,41,2347,,36,0.001,1.552,,,,,5,27,,5,57,0%,18%,0.35
+Senioren im Strassenverkehr,28,33,1431,,29,0.001,1.863,6,24,457,2,6,28,6,6,43,33%,21%,0.321
+Umgang mit E-Bikes,27,32,1138,,27,0.001,3.348,17,34,539,7,20,27,17,20,36,41%,74%,0.577
+App «Auf Kurs»,26,32,1309,,29,0.001,20.397,3,3,0,3,11,25,3,11,41,100%,42%,0.942
+Kontaktanfrage Sicherheitsberatung,26,38,5322,3,34,0.003,1.618,2,11,1706,1,8,26,2,8,140,50%,31%,0.391
+Zürich-Wollishofen: Polizei sucht Bankräuber - Zeugenaufruf,26,31,2784,,30,0.006,1.701,13,32,509,8,15,26,13,15,90,62%,58%,0.364
+A1 Illnau-Effretikon: Raser verursacht Verkehrsunfall - Zeugenaufruf,25,27,132,,27,0.005,1.226,23,32,202,18,22,25,23,22,5,78%,88%,0.328
+Factsheets,25,33,3177,6,27,0.002,1.583,11,29,1644,3,17,24,11,16,96,27%,68%,0.276
+Präventionsmobil,25,29,727,,28,0.001,1.491,2,2,0,2,7,25,2,7,25,100%,28%,0.308
+Uerikon: Vermisst wird Manuel DENNIS,25,27,641,,25,0.002,1.373,2,2,0,2,3,25,2,3,24,100%,12%,0.364
+Verhalten am Fussgängerstreifen,25,28,2632,,28,0.001,2.115,20,34,2694,14,20,25,20,20,94,70%,80%,0.52
+Meilen: Arbeitsunfall fordert zwei Verletzte,24,25,881,,24,0.001,1.874,14,18,491,12,15,21,12,13,35,86%,63%,0.372
+Such- und Rettungsdienst der Luftfahrt,24,27,3290,,25,0.003,2.295,11,16,269,9,11,24,11,11,122,82%,46%,0.557
+Aufgaben der Kriminalpolizei,23,29,1912,,27,0.001,2.443,17,46,3408,11,17,23,17,17,66,65%,74%,0.869
+Flughafen-Zürich: Carkontrolle,23,24,905,,24,0.002,1.26,3,12,1243,0,5,23,3,5,38,0%,22%,0.371
+Freiwillige Rückgabe von Waffen und Munition im Kanton Zürich,23,37,2152,,35,0.001,2.073,19,116,3856,12,16,23,19,16,58,63%,70%,0.379
+Horgen A3: Unfall mit Motorrad fordert schwer Verletzten,23,31,2158,,29,0.001,1.678,1,7,77,0,6,23,1,6,70,0%,26%,0.339
+Kriminalprävention,23,31,1634,,29,0.002,1.352,8,29,689,3,11,22,7,10,53,38%,48%,0.291
+Zürich: Vermisst wird ein Mädchen,23,29,243,,27,0.001,0.334,3,3,0,3,7,23,3,7,8,100%,30%,0.028
+Kontaktanfrage Kriminalmuseum,22,28,3072,1,23,0.001,3.66,,,,,3,21,,3,110,0%,14%,0.425
+Pfäffikon: Vermisstmeldung Paul Burri,22,23,698,,21,0.002,1.651,2,3,9,1,2,21,2,2,30,50%,9%,0.627
+Graffiti,21,29,1717,1,24,0.001,2.126,14,27,648,11,12,21,14,12,59,79%,57%,0.293
+Verbände/Vereine,21,26,1551,4,25,0.002,1.523,7,16,141,2,8,20,6,7,60,29%,38%,0.455
+Weiningen: Vermisstmeldung Roland Hirsbrunner,21,22,585,,21,0.001,1.997,1,1,0,1,1,21,1,1,27,100%,5%,0.519
+Forschung & Entwicklung,20,31,1518,,25,0.002,1.606,4,11,806,3,7,20,4,7,49,75%,35%,0.382
+Jahresbericht 2017 – Das FOR stellt sich vor,20,25,4086,,22,0.002,1.777,1,29,1097,0,6,20,1,6,163,0%,30%,0.538
+Baltenswil: Toter neben Auto bei Ausfahrt Raststätte Baltenswil-Nord aufgefunden,19,23,1602,1,23,0.001,1.879,3,6,111,1,5,19,3,5,70,33%,26%,0.428
+Dietikon: Einbrecher in flagranti verhaftet,18,18,1279,,16,0.002,2.296,2,2,0,2,3,18,2,3,71,100%,17%,0.619
+"Internationale Aktion gegen ""Money Mules"",18,18,243,1,18,0.004,1.561,14,16,15,13,16,18,14,16,14,93%,89%,0.294"
+Qualitäts-/Umweltmanagement,18,18,936,,15,0.01,1.323,2,4,585,1,4,18,2,4,52,50%,22%,0.479
+Rechtshinweise,18,22,1242,,21,0.004,1.802,6,9,154,4,12,16,5,11,56,67%,67%,0.693
+Deutsch,17,25,189,1,25,0.006,1.243,,,,,2,17,,2,8,0%,12%,0.435
+Kanton Zürich: Warnung - Anrufe von falschen Polizisten,17,24,975,,24,0.001,1.513,15,39,1338,10,14,17,15,14,41,67%,82%,0.542
+Bezirk Zürich: Ermittlungsverfahren gegen Einbrecher abgeschlossen,16,22,622,,22,0.004,1.72,11,17,447,9,11,14,9,9,28,82%,69%,0.292
+Diebstahl,16,22,864,3,20,0.001,1.721,1,1,0,1,3,16,1,3,39,100%,19%,0.317
+Die Polizeikorps der Kantone sind bei Cybercrime gefordert,16,16,1017,,16,0.011,1.463,9,17,587,6,6,16,9,6,64,67%,38%,0.448
+Drogen,16,20,192,,20,0.001,1.191,9,42,3775,2,2,16,9,2,10,22%,13%,0.17
+Kantonale Führungsorganisation,16,17,466,,15,0.002,1.772,1,2,5,0,2,16,1,2,27,0%,13%,0.507
+Bau einer neuen Ausbildungsanlage in Regensdorf,15,24,1652,2,21,0.004,1.732,14,34,1828,8,14,15,14,14,69,57%,93%,0.496
+Dokument nicht auffindbar (Error 403),15,27,472,,27,0.001,0.112,6,29,822,2,2,15,6,2,17,33%,13%,0.038
+Kantonspolizei,15,20,1843,2,20,0.002,0.923,7,22,1063,2,6,14,6,6,92,29%,40%,0.186
+Kontaktanfrage Jugendintervention,15,18,499,,16,0.002,3.447,,,,,1,15,,1,28,0%,7%,0.5
+Bülach: Brandstiftung - Zeugenaufruf,14,15,315,,15,0.002,2.669,,,,,1,14,,1,21,0%,7%,0.773
+Bülach: Hoher Sachschaden bei Hausbrand,14,22,1030,,21,0.002,1.599,9,22,160,5,11,12,8,9,47,56%,79%,0.454
+https:/www.kapo.zh.ch/internet/sicherheitsdirektion/kapo/de/jobs/berufsbild_polizist.html,14,14,0,,14,1.209,13.613,14,14,0,14,14,14,14,14,0,100%,100%,3.574
+Kontaktanfrage Seepolizei,14,20,3774,,17,0.001,2.134,,,,,4,14,,4,189,0%,29%,0.507
+Plakate,14,15,432,,13,0.003,2.084,3,4,6,2,8,14,3,8,29,67%,57%,0.603
+Schreiben, was ist,14,17,1437,,14,0.002,1.766,1,1,0,1,4,14,1,4,85,100%,29%,0.736
+Bezirke Bülach und Uster: Sieben Verhaftungen bei Club-Kontrollen,13,14,973,,13,0.005,2.187,1,2,262,0,2,13,1,2,70,0%,15%,0.98
+Kantonspolizei Zürich stellt neuen Helikopter vor,13,21,289,,14,0.001,2.093,11,34,286,7,11,12,10,10,14,64%,85%,0.842
+Schnelltest zur Cannabis-Typisierung – Versuchsphase abgeschlossen,13,16,255,,16,0.003,2.089,13,19,301,11,13,12,12,12,16,85%,100%,0.749
+Wernetshausen (Hinwil): Auto gegen Hausmauer,13,30,515,,30,0.001,0.826,5,19,203,2,13,12,5,12,17,40%,100%,0.219
+Zürich 1: Vermisstmeldung Valeriy Verso,13,14,270,,14,0.002,1.636,,,,,,13,,,19,0%,0%,0.433
+Kontaktanfrage Regionalpolizei,12,19,1468,,10,0.005,2.42,,,,,2,12,,2,77,0%,17%,0.829
+"Telefonbetrug: ""Spoofing"" – neue Tätermasche,12,12,1660,,12,0.002,1.683,2,12,149,1,4,12,2,4,138,50%,33%,0.693"
+Geschäftsbericht 2017 veröffentlicht,11,12,1937,1,11,0.004,1.831,8,41,3883,2,6,11,8,6,161,25%,55%,0.38
+Kontaktformulare,11,15,1725,2,14,0.002,0.791,,,,,2,11,,2,115,0%,18%,0.156
+Madetswil: Scheunenbrand,11,17,1164,,15,0.013,1.881,9,17,506,6,8,11,9,8,68,67%,73%,0.514
+Schlieren: Einbrecher in flagranti verhaftet,11,11,393,,11,0.046,2.76,3,3,0,3,3,11,3,3,36,100%,27%,0.984
+Uster: Mutmasslicher Betäubungsmittelhändler verhaftet,11,12,1338,,11,0.003,1.314,2,2,0,2,3,11,2,3,112,100%,27%,0.522
+Zwei Transportfahrzeuge für die Kantonspolizei Zürich,11,12,1249,,11,0.004,1.749,10,17,1858,7,9,11,10,9,104,70%,82%,0.839
+Aeugstertal: Motorradfahrer bei Grosskontrolle verhaftet,10,10,414,,10,0.644,1.302,1,1,0,1,2,10,1,2,41,100%,20%,0.804
+Alle Beiträge 2018,10,16,400,,14,0.002,2.472,,,,,2,10,,2,25,0%,20%,0.546
+Bestätigung Sicherheitsberatung,10,10,30,1,9,0.005,1.359,1,1,0,1,8,8,1,6,3,100%,80%,0.874
+Betrugsfälle im Internet – auch Postsendungen sind betroffen,10,11,1063,,9,0.004,1.696,6,9,668,5,7,10,6,7,97,83%,70%,0.586
+Datenarchiv,10,17,462,2,12,0.002,1.675,1,1,0,1,2,10,1,2,27,100%,20%,0.435
+Dietikon: Grosser Sachschaden bei Verkehrsunfall - Zeugenaufruf,10,12,386,,9,0.003,1.415,1,1,0,1,3,10,1,3,32,100%,30%,0.569
+Dübendorf: Einweihungsfeier des Diensthundezentrums Dübendorf mit Tag der offenen Türe,10,16,1374,,14,0.001,3.005,7,37,388,5,8,10,7,8,86,71%,80%,0.654
+Es ist ein Fehler aufgetreten,10,15,379,,13,0.027,1.753,1,4,5,0,2,9,1,2,25,0%,20%,0.866
+Grüningen: Autofahrer nach Selbstunfall verhaftet,10,13,321,,12,0.001,1.544,4,4,0,4,5,10,4,5,25,100%,50%,0.718
+Kantonspolizei Zürich sucht Nachwuchs: Übernehmen Sie meinen Job!,10,11,150,,11,0.002,1.609,7,21,682,2,3,10,7,3,14,29%,30%,0.719
+Kilchberg - Tauchunfall mit Todesfolge,10,10,135,,10,0.005,1.486,5,5,0,5,6,10,5,6,14,100%,60%,0.434
+Kontaktanfrage Kinder- und Jugendinstruktion,10,19,4040,,18,0.003,1.459,1,4,952,0,2,10,1,2,213,0%,20%,0.641
+Obfelden: Motorradfahrer bei Verkehrsunfall schwer verletzt - Zeugenaufruf,10,11,1780,,10,0.003,1.684,2,2,0,2,3,10,2,3,162,100%,30%,0.526
+Rafz: Vermisstmeldung,10,10,2009,1,9,0.004,1.635,1,1,0,1,2,10,1,2,201,100%,20%,0.59
+Suche,10,14,1917,6,14,0.01,2.649,,,,,1,10,,1,137,0%,10%,0.925
+Urdorf: Chemieunfall in Gewerbegebäude,10,10,979,,10,0.032,5.363,7,10,917,5,6,10,7,6,98,71%,60%,1.264
+Vorgehen gegen Häusliche Gewalt,10,11,187,,10,0.004,1.439,3,3,0,3,7,10,3,7,17,100%,70%,0.483
+Winterthur: Fünf Verhaftungen bei Clubkontrolle,10,10,116,,10,0.037,2.078,1,1,0,1,5,10,1,5,12,100%,50%,0.89
+Zürich/Dübendorf: Die Verkehrsabteilung der Kantonspolizei Zürich zieht um,10,11,292,,11,0.001,1.279,7,31,546,4,5,10,7,5,27,57%,50%,0.248
+Ablenkung im Strassenverkehr,9,15,138,,15,0.001,0.776,1,3,48,0,1,9,1,1,9,0%,11%,0.187
+Aufgaben der Sicherheitspolizei,9,10,954,,10,0.002,1.627,6,20,2927,3,4,9,6,4,95,50%,44%,0.615
+Bestätigung Akteneinsicht,9,9,1422,2,8,0.002,1.168,1,1,0,1,4,9,1,4,158,100%,44%,0.622
+Dägerlen: Verkehrsunfall fordert einen Toten - Zeugenaufruf,9,9,223,,9,0.523,2.119,8,9,218,7,7,6,5,4,25,88%,78%,1.146
+Egg: Verletzte Lenkerin bei Verkehrsunfall - Zeugenaufruf,9,10,1151,,10,0.051,1.17,9,22,1336,7,7,9,9,7,115,78%,78%,0.548
+Hettlingen: Frontalkollision fordert zwei Verletzte - Zeugenaufruf,9,12,263,,12,0.007,1.726,2,3,89,1,2,9,2,2,22,50%,22%,0.548
+Kontaktanfrage Sicherheitspolizei,9,9,575,,8,0.018,1.864,,,,,1,9,,1,64,0%,11%,0.964
+Richterswil: Toter Mann aufgefunden,9,9,205,,9,0.003,1.383,,,,,1,9,,1,23,0%,11%,0.681
+Telefonbetrug: Kantonspolizei Zürich lanciert neue Kampagne,9,10,736,,10,0.003,1.038,7,25,873,4,6,9,7,6,74,57%,67%,0.268
+Tötungsdelikt in Zürich-West vom 20. März 2010 – Zeugenaufruf,9,12,754,,12,0.002,1.626,,,,,1,9,,1,63,0%,11%,0.411
+Winterthur: Tötungsversuch - Zeugenaufruf,9,9,382,,9,0.003,1.485,1,1,0,1,1,9,1,1,42,100%,11%,0.717
+A3 Thalwil: Motorradfahrer bei Selbstunfall schwer verletzt,8,9,640,,9,0.003,1.78,4,4,0,4,5,8,4,5,71,100%,63%,0.692
+E-Bike im Griff?,8,9,1254,2,8,0.001,0.815,7,12,1236,3,6,7,6,5,139,43%,75%,0.284
+Fehraltorf: Frau nach Verkehrsunfall verstorben,8,8,109,,8,0.001,1.515,3,3,0,3,3,8,3,3,14,100%,38%,0.761
+Kilchberg: Vermisste Anne Christine Ehl tot aufgefunden,8,10,182,,9,0.006,5.87,8,11,198,6,8,8,8,8,18,75%,100%,1.115
+Korpsübergreifende Erneuerung der Uniform - Tragversuch,8,18,612,,12,0.001,1.321,6,29,513,2,6,8,6,6,34,33%,75%,0.29
+Thalheim: Lebensmittelladen überfallen - Zeugenaufruf,8,9,193,,9,0.002,1.646,,,,,,8,,,21,0%,0%,0.604
+Tipps, damit es Taschendiebe schwer haben,8,9,721,,8,0.001,1.184,,,,,2,8,,2,80,0%,25%,0.48
+Zürich: Verletzte nach Auseinandersetzung - Nachtrag - Zeugenaufruf,8,10,619,,10,0.001,1.147,2,7,2095,0,2,8,2,2,62,0%,25%,0.303
+Adlikon: Sachschaden bei Brand in Tiefgarage,7,7,58,,6,0.009,1.271,3,3,0,3,3,7,3,3,8,100%,43%,0.415
+Alkohol/Drogen,7,9,520,,9,0.003,1.632,2,2,0,2,3,7,2,3,58,100%,43%,0.492
+Dielsdorf: Vermisstmeldung - revoziert,7,7,85,,7,0.024,1.875,7,10,157,6,6,7,7,6,12,86%,86%,0.778
+Gewalt,7,8,200,,6,0.001,7.664,,,,,,7,,,25,0%,0%,1.564
+Im Dialog mit der Kantonspolizei Zürich via Messenger,7,7,111,,7,0.054,1.092,5,10,441,3,4,6,5,4,16,60%,57%,0.519
+Keine Ablenkung,7,8,258,,8,0.024,0.807,2,2,0,2,3,6,1,2,32,100%,43%,0.307
+Kt. Zürich/St. Gallen: Interkantonale Grosskontrolle durchgeführt,7,7,124,,7,0.003,1.577,1,1,0,1,2,7,1,2,18,100%,29%,0.838
+Küsnacht: Blindgänger gefunden,7,7,408,,6,0.006,1.44,3,3,0,3,3,7,3,3,58,100%,43%,0.576
+Küsnacht: Mit übersetzter Geschwindigkeit von Strasse abgekommen - Zeugenaufruf,7,7,0,,7,0.101,1.856,7,7,0,7,7,7,7,7,0,100%,100%,1.202
+Sicher auf dem See stehen,7,10,762,,10,0.006,49.362,2,3,586,1,4,7,2,4,76,50%,57%,6.793
+Stäfa: Raub auf Tankstellenshop - Zeugenaufruf,7,8,85,,8,0.003,1.472,,,,,1,7,,1,11,0%,14%,0.559
+Thalwil: Nachtrag - Schwerstverletzter Radfahrer - Zeugenaufruf,7,7,0,,7,0.071,1.169,5,5,0,5,7,7,5,7,0,100%,100%,0.731
+Uitikon: Kran gekippt,7,11,1870,,10,0.007,1.685,7,12,1872,5,7,6,6,6,170,71%,100%,0.838
+Verdacht – RUF AN – Polizeinotruf 117,7,7,48,,6,0.068,1.145,5,5,0,5,6,7,5,6,7,100%,86%,0.731
+Vereidigung der Polizeischule 2/2011 der Kantonspolizei Zürich,7,13,272,,10,0.002,1.592,4,36,2345,2,4,7,4,4,21,50%,57%,0.314
+Vorsicht im Umgang mit Kryptowährungen,7,7,777,,7,0.003,2.888,1,1,0,1,3,7,1,3,111,100%,43%,0.54
+Winterthur: Polizei sucht Bankräuber und setzt Belohnung aus – Zeugenaufruf,7,7,122,,7,0.063,1.962,1,1,0,1,3,7,1,3,17,100%,43%,0.998
+Zürich: Tötungsdelikt - Nachtrag,7,7,238,,6,0.003,1.449,,,,,,7,,,34,0%,0%,0.924
+Ausnahmetransportbegleitung neu organisiert,6,7,67,,7,0.001,2.648,5,19,3240,1,2,6,5,2,10,20%,33%,0.848
+Beim Befahren von Autobahnbaustellen ist Aufmerksamkeit gefragt,6,8,1089,,8,0.003,1.274,6,8,1090,5,6,6,6,6,136,83%,100%,0.387
+Besuchen Sie unseren Kapo-Stand – zum Beispiel an der ZOM,6,6,135,1,6,0.002,1.455,,,,,2,6,,2,23,0%,33%,0.572
+Dietikon: Motorradfahrer bei Unfall schwer verletzt - Zeugenaufruf,6,7,97,,6,0.009,2.015,2,4,84,1,3,6,2,3,14,50%,50%,0.863
+Dietikon: Vermisstmeldung - Revokation,6,6,30,,6,0.511,1.719,2,3,7,1,3,6,2,3,5,50%,50%,1.086
+Dietlikon: Verkehrsunfall fordert 2 Verletzte - Zeugenaufruf,6,6,47,,6,0.013,0.739,6,7,48,5,5,6,6,5,8,83%,83%,0.352
+Dürnten: Ein Toter bei Verkehrsunfall,6,6,43,,6,0.045,2.703,6,9,59,5,5,6,6,5,7,83%,83%,1.784
+Freienstein: Brand in Tiefgarage einer Überbauung,6,6,36,,6,0.039,1.518,5,7,38,3,4,6,5,4,6,60%,67%,0.797
+Hausen am Albis: Mann nach Badeunfall verstorben - Zeugenaufruf,6,6,50,,6,0.013,1.043,3,3,0,3,4,6,3,4,8,100%,67%,0.637
+Kanton Zürich: Polizeiliche Schwerpunktaktion zum Schulanfang beendet,6,6,452,,6,0.023,1.369,1,1,0,1,2,6,1,2,75,100%,33%,0.664
+Laserblendungen,6,7,651,,6,0.001,0.052,1,2,76,0,1,6,1,1,93,0%,17%,0.021
+Neftenbach: Brand auf einem Firmengelände,6,6,267,,6,0.007,1.68,2,9,2326,1,2,6,2,2,45,50%,33%,0.596
+Niederglatt: Mutmasslicher Drogendealer verhaftet,6,7,807,,7,0.043,1.904,6,7,808,5,6,6,6,6,115,83%,100%,0.789
+Oetwil am See: Verkehrsunfall fordert Schwerverletzten - Zeugenaufruf,6,6,0,,6,0.04,1.603,6,6,0,6,6,6,6,6,0,100%,100%,0.861
+Opfikon: Brand in Tiefgarage,6,6,155,,5,0.037,1.168,4,9,284,2,3,4,4,2,26,50%,50%,0.662
+Ottenbach: Fahrradfahrer nach Selbstunfall verletzt,6,6,23,,6,0.722,1.366,2,2,0,2,3,6,2,3,4,100%,50%,0.849
+Richterswil: Junge von Zug erfasst und getötet,6,7,35,,6,0.024,8.97,6,7,36,5,6,6,6,6,5,83%,100%,2.439
+Wildberg/Schalchen: Vermisster Mann aufgefunden,6,6,21,,6,0.003,1.004,,,,,1,6,,1,4,0%,17%,0.616
+Zürich 11: Raub auf Goldhändler – Zeugenaufruf mit Bilder,6,10,254,,5,0.189,1.793,,,,,1,6,,1,25,0%,17%,1.153
+Alle Beiträge 2017,5,6,197,3,5,0.004,4.32,,,,,,5,,,33,0%,0%,1.062
+Aufgaben der Verkehrspolizei,5,5,51,,5,0.003,0.673,3,3,0,3,4,5,3,4,10,100%,80%,0.347
+Bewährte Sonderkommission,5,6,373,,5,0.004,1.7,5,9,383,3,4,5,5,4,62,60%,80%,0.748
+Cantonal police Zurich,5,5,230,,4,0.16,2.197,4,37,1273,2,2,5,4,2,46,50%,40%,0.814
+Chef Kommandobereich 2 wird Stabschef der Oberstaatsanwaltschaft,5,6,33,,6,0.023,1.876,5,8,1666,4,4,5,5,4,6,80%,80%,0.522
+Einbruchsicheres Zuhause, auch während Ihrer Ferien,5,7,259,,5,0.005,1.385,1,1,0,1,1,5,1,1,37,100%,20%,0.751
+Erfahrungen mit dem Instrument der Gefährderansprache,5,5,10,,5,0.003,1.162,4,4,0,4,4,5,4,4,2,100%,80%,0.377
+Fahndungsauftrag: Entweichung aus Klinik,5,5,27,,5,0.591,1.593,4,4,0,4,4,4,3,3,5,100%,80%,0.93
+Falsche E-Mails mit Absender Kantonspolizei,5,10,538,,8,0.001,1.475,2,15,1367,0,1,5,2,1,54,0%,20%,0.293
+Fehraltorf: Angriff auf Fussballanhänger - Zeugenaufruf,5,5,123,,5,0.01,1.167,,,,,1,5,,1,25,0%,20%,0.639
+Internetkriminalität,5,9,2141,,9,0.033,0.286,5,10,2144,2,5,5,5,5,238,40%,100%,0.161
+Kanton Zürich: Ermittlungsverfahren gegen Einbrecher abgeschlossen,5,6,94,,5,0.003,1.838,1,1,0,1,2,5,1,2,16,100%,40%,0.53
+Regensdorf: Brand eines Mehrfamilienhauses,5,8,2430,,8,0.003,0.573,4,8,2433,1,4,4,3,3,304,25%,80%,0.099
+Regensdorf: Geschwindigkeitskontrolle - Raser gestoppt,5,6,55,,6,0.007,1.272,3,3,0,3,3,5,3,3,9,100%,60%,0.769
+Thalwil: Nachtrag zu tödlichem Badeunfall – vermisste Person geborgen,5,5,122,,4,0.003,1.38,,,,,1,5,,1,24,0%,20%,0.507
+Uster: Indoor-Anlage ausgehoben,5,5,80,,5,0.686,1.696,4,4,0,4,4,5,4,4,16,100%,80%,1.17
+Vereidigung der Aspirantinnen und Aspiranten der Kantonspolizei Zürich aus den Lehrgängen S13 und H13 der Zürcher Polizieischule,5,9,177,,7,0.004,1.061,2,6,67,0,3,5,2,3,20,0%,60%,0.38
+Wiesendangen: Verkehrsunfall fordert zwei Verletzte,5,5,3,,5,0.001,0.202,4,4,0,4,4,5,4,4,1,100%,80%,0.049
+Zehn Plagiat-Händler verhaftet,5,5,85,,5,0.003,1.989,3,3,0,3,3,4,2,2,17,100%,60%,0.713
+A53/Uster-Nord: Benützung des Pannenstreifen der Autobahnausfahrt bei Stau,4,4,210,1,4,0.723,1.779,3,5,110,2,4,4,3,4,53,67%,100%,1.287
+Analyse/Projekte,4,6,55,,5,0.006,1.453,,,,,,4,,,9,0%,0%,0.419
+Aufgaben der Kommandobereiche,4,4,17,,4,0.005,1.398,2,2,0,2,3,4,2,3,4,100%,75%,0.373
+Bezirke Dietikon und Zürich/A3: Verkehrspolizeiliche Grosskontrollen anlässlich der Streetparade 2018,4,4,150,,4,0.003,1.151,1,1,0,1,1,4,1,1,38,100%,25%,0.609
+Birmensdorf: Motorradfahrer nach Frontalkollision schwer verletzt,4,4,49,,4,0.768,0.946,4,5,50,3,3,4,4,3,12,75%,75%,0.851
+Brütten: Verkehrsunfall fordert einen Verletzten - Zeugenaufruf,4,4,9,,4,0.111,1.5,3,5,29,2,3,4,3,3,2,67%,75%,0.917
+Der vermisste Mann ist am Dienstagabend (31.7.2018) in Dietikon tot aufgefunden worden.,4,4,83,,4,0.623,0.888,,,,,,4,,,21,0%,0%,0.719
+Digitalisierte Unterschriften unter Polizeirapporten,4,4,3,,4,0.005,11.629,3,3,0,3,3,3,2,2,1,100%,75%,3.235
+Effiziente und umweltschonende Fahrzeugflotte,4,4,47,,4,0.004,0.687,,,,,1,4,,1,12,0%,25%,0.178
+Egg: Mann bei Auseinandersetzung durch Stichwaffe verletzt,4,4,46,,4,0.525,0.933,,,,,1,4,,1,12,0%,25%,0.745
+Flughafen Zürich: Zwei Drogenkuriere verhaftet,4,4,147,,4,0.518,3.047,,,,,,4,,,37,0%,0%,1.29
+Freiwillige Abgabe von Waffen und Munition im Kanton Zürich,4,4,25,,4,0.005,1.824,2,4,51,1,2,4,2,2,6,50%,50%,0.879
+Fünf Ausreise-Schleusen für die automatisierte Passkontrolle am Flughafen Zürich,4,4,684,,4,0.003,1.251,3,4,681,2,2,4,3,2,171,67%,50%,0.541
+Geroldswil: Auffahrkollision von vier Fahrzeugen - Zeugenaufruf,4,4,31,,4,0.043,4.099,,,,,,4,,,8,0%,0%,1.785
+Illnau-Effretikon: Vier Verletzte bei Verkehrsunfall - Zeugenaufruf,4,4,10,,4,0.897,1.991,,,,,3,4,,3,3,0%,75%,1.262
+Oberengstringen: Verletzter nach Auseinandersetzung,4,4,0,,4,0.004,0.904,,,,,4,4,,4,0,0%,100%,0.443
+Oberhasli: Schwerverletzter bei Motorradunfall - Zeugenaufruf,4,4,0,,4,0.14,1.266,4,4,0,4,4,4,4,4,0,100%,100%,0.844
+Obfelden: Raub auf Tankstellenshop - Zeugenaufruf,4,4,0,,4,0.755,2.338,2,2,0,2,4,4,2,4,0,100%,100%,1.364
+Otelfingen: Motorradfahrer bei Unfall schwer verletzt,4,5,11,,4,0.002,0.803,3,13,100,2,3,4,3,3,2,67%,75%,0.35
+Rafz: Revokation Vermisstmeldung,4,4,68,,4,0.574,1.183,,,,,,4,,,17,0%,0%,0.916
+Rüti: Taxifahrer während Raubüberfall verunfallt – Zeugenaufruf,4,5,259,,5,0.002,1.656,,,,,,4,,,52,0%,0%,0.574
+Schwerpunkte und Jahresziele 2018,4,4,372,,4,0.007,0.627,3,10,678,2,3,4,3,3,93,67%,75%,0.179
+Seit 1832 neben dem Rathaus in Zürich,4,7,691,,4,0.002,1.896,1,1,0,1,2,4,1,2,99,100%,50%,0.489
+Seuzach: Banküberfall - Zeugenaufruf,4,4,403,,4,0.002,1.629,,,,,,4,,,101,0%,0%,0.811
+So helfen Sie Weglaufgefährdeten – und uns,4,10,3297,,10,0.003,1.562,,,,,3,4,,3,330,0%,75%,0.284
+Turbenthal: Selbstunfall fordert Todesopfer - Zeugenaufruf,4,5,628,,5,0.009,1.211,2,9,248,1,1,4,2,1,126,50%,25%,0.385
+Videoclips,4,4,134,,4,0.002,1.291,1,1,0,1,1,4,1,1,34,100%,25%,0.877
+Wald: Brand eines Elektrogebäudes,4,4,1111,,4,0.046,1.201,2,3,61,1,1,4,2,1,278,50%,25%,0.626
+Wiesendangen/A1: Selbstunfall fordert Verletzten - Zeugenaufruf,4,4,27,,4,0.723,2.268,3,3,0,3,3,4,3,3,7,100%,75%,1.517
+Winterthur: Brand eines Holzschopfes - Zeugenaufruf,4,4,118,,4,0.017,0.703,,,,,,4,,,30,0%,0%,0.325
+Zahlen und Fakten zum Destabilisierungsgerät DSG (Taser),4,5,125,,4,0.003,0.855,2,4,96,1,2,4,2,2,25,50%,50%,0.359
+Zusammenarbeit zwischen der Kantonspolizei Zürich und dem Grenzwachtkorps (GWK),4,4,9,,4,0.034,0.616,2,3,4,1,4,4,2,4,2,50%,100%,0.319
+Zürcher Unterland: Kontrolle von Hunden und -haltern im Hardwald,4,5,317,1,5,0.003,0.65,,,,,,4,,,63,0%,0%,0.15
+Zürich 2: Schwer verletzter Mann nach Streit - Zeugenaufruf,4,4,56,,4,0.118,0.994,2,2,0,2,2,4,2,2,14,100%,50%,0.603
+Zürich: Mutmassliche Online-Betrüger gefasst,4,4,32,,3,0.007,1.267,,,,,1,4,,1,8,0%,25%,0.676
+Zürich: Warnung vor falschen Mails mit Absender Kantonspolizei,4,4,0,,3,0.003,1.912,2,2,0,2,3,4,2,3,0,100%,75%,1.05
+Zürich: Warnung vor falschen Mails mit Absender Kantonspolizei Zürich,4,7,133,,7,0.002,1.017,4,19,198,2,3,4,4,3,19,50%,75%,0.17
+Zürich Hauptbahnhof: 32 Verhaftungen im Rahmen der Streetparade,4,5,232,,5,0.003,0.751,,,,,,4,,,46,0%,0%,0.383
+Adlikon bei Regensdorf: Grosser Schaden bei Brand in Tiefgarage,3,3,228,,2,0.649,0.997,2,3,229,1,2,3,2,2,76,50%,67%,0.823
+Aufgaben der Regionalpolizei,3,5,187,,5,0.005,1.088,2,2,0,2,2,3,2,2,37,100%,67%,0.575
+Autofenster einschlagen, um Tierleben zu retten,3,3,0,,3,0.062,1.508,3,3,0,3,3,3,3,3,0,100%,100%,0.888
+Automatisierte Passkontrolle am Flughafen Zürich,3,5,1165,,4,0.001,0.142,3,5,1166,2,3,2,2,2,233,67%,100%,0.096
+Bezirk Dietikon: Kontrolle wegen illegalen Glücksspiels,3,3,32,,3,0.006,0.528,,,,,1,3,,1,11,0%,33%,0.227
+Bezirk Dietikon: Technische Verkehrskontrolle,3,3,67,,3,0.583,1.684,,,,,,3,,,22,0%,0%,0.995
+Bülach: Grosse Indoor-Hanfplantage ausgehoben,3,3,79,,3,0.001,1.485,3,5,80,2,2,3,3,2,26,67%,67%,0.741
+Bülach: Verkehrsunfall fordert Todesopfer - Zeugenaufruf,3,3,0,,3,0.043,1.891,3,3,0,3,3,3,3,3,0,100%,100%,0.879
+Dachsen: Brand in Riegelhaus fordert hohen Sachschaden,3,4,102,,4,0.002,1.211,3,6,104,1,1,3,3,1,26,33%,33%,0.72
+Dielsdorf/Uster: Raubüberfall auf Tankstelle geklärt,3,4,143,,4,0.003,0.056,2,3,117,1,2,3,2,2,36,50%,67%,0.038
+Dielsdorf: Badeunfall - Zeugenaufruf,3,3,10,,2,0.035,0.833,2,2,0,2,2,3,2,2,3,100%,67%,0.434
+Dielsdorf: Verletzte Frau auf Trottoir aufgefunden - Zeugenaufruf,3,3,84,,3,0.004,0.963,,,,,,3,,,28,0%,0%,0.355
+Dübendorf: Brand in Baucontainer,3,3,0,,3,0.001,0.177,3,3,0,3,3,3,3,3,0,100%,100%,0.06
+Dübendorf: Motorradfahrer im Kreisverkehr wegen Auto gestürzt - Zeugenaufruf,3,3,165,,3,0.524,0.684,,,,,,3,,,55,0%,0%,0.599
+Dürnten: Selbstunfall fordert Todesopfer – Zeugenaufruf,3,10,144,,6,0.001,0.938,2,11,46,1,3,3,2,3,14,50%,100%,0.313
+Egg bei Zürich: Verkehrsunfall zwischen Forchbahn und Personenwagen,3,3,0,,3,0.002,1.359,2,2,0,2,3,3,2,3,0,100%,100%,0.693
+Erfolgreicher Start der gemeinsamen Polizeischule von Stadt und Kanton Zürich,3,3,0,,3,0.004,0.873,3,3,0,3,3,3,3,3,0,100%,100%,0.363
+Fischenthal: Motorradkontrolle,3,4,1059,,4,0.03,1.366,2,3,1018,1,2,3,2,2,265,50%,67%,0.647
+Geroldswil: Brand in Tiefgarage einer Überbauung,3,3,51,,3,0.117,0.583,1,1,0,1,2,3,1,2,17,100%,67%,0.419
+Gutenswil: Zwei Schwerverletzte durch Verkehrsunfall - Zeugenaufruf,3,3,2,,3,0.238,1.316,3,6,15,2,2,3,3,2,1,67%,67%,0.68
+Hirzel: Zwei Personen bei Verkehrsunfall verletzt - Zeugenaufruf,3,3,40,,3,0.618,1.212,1,1,0,1,1,3,1,1,13,100%,33%,0.824
+Hombrechtikon: Fünf Verletzte bei Verkehrsunfall - Zeugenaufruf,3,3,28,,3,0.132,0.759,2,7,76,1,2,3,2,2,9,50%,67%,0.518
+Höri: Kollision zwischen einem Motorrad und einem Personenwagen fordert zwei Verletzte - Zeugenaufruf,3,3,34,,3,0.055,0.636,,,,,,3,,,11,0%,0%,0.411
+Hüntwangen: Raub auf Verkaufsgeschäft – Zeugenaufruf,3,3,30,,3,0.054,1.711,,,,,,3,,,10,0%,0%,0.859
+Kanton Zürich: Achtung vor neuer Phishing-Methode,3,3,12,,3,0.003,1.017,2,2,0,2,2,3,2,2,4,100%,67%,0.525
+Kanton Zürich: Polizeiliche Kriminalstatistik PKS 2016,3,3,0,,3,0.006,1.777,3,3,0,3,3,3,3,3,0,100%,100%,0.604
+Kanton Zürich: Polizeiliche Kriminalstatistik PKS 2017,3,4,1378,,3,0.005,2.309,2,20,1682,1,1,3,2,1,345,50%,33%,0.776
+Kanton Zürich: Verkehrspolizeiliche Schwerpunktaktion - Fahrzeugbeleuchtung und Verhalten vor Fussgängerstreifen,3,3,94,,3,0.15,0.98,3,8,108,1,1,3,3,1,31,33%,33%,0.622
+Pfungen: Ein Verletzter bei Verkehrsunfall - Zeugenaufruf,3,3,118,,3,0.063,1.037,,,,,1,2,,1,39,0%,33%,0.388
+Pfäffikon: Verkehrsunfall fordert Schwerverletzten,3,4,430,,3,0.001,0.009,1,1,0,1,2,3,1,2,108,100%,67%,0.005
+Rüti/Winterthur: Indoor-Hanfplantage ausgehoben,3,4,210,,4,0.086,2.434,3,4,211,2,3,3,3,3,53,67%,100%,1.013
+Schlieren: Geschwindigkeitskontrolle – Schnellfahrer gestoppt,3,4,117,1,4,0.009,0.709,,,,,,3,,,29,0%,0%,0.316
+SG, GL, SZ, ZH, Horgen: Falschfahrer rast durch die halbe Schweiz - Zeugenaufruf,3,3,234,,3,0.001,1.175,1,1,0,1,1,3,1,1,78,100%,33%,0.394
+Turbenthal: Verkehrsunfall fordert einen Toten - Zeugenaufruf,3,4,143,,4,0.014,1.132,3,5,322,2,3,3,3,3,36,67%,100%,0.428
+Uetikon am See: Motorradfahrer bei Selbstunfall schwer verletzt,3,3,0,,3,0.085,1.702,3,3,0,3,3,3,3,3,0,100%,100%,1.004
+Uitikon Waldegg: Telefonbetrüger verhaftet,3,3,320,,3,0.003,0.676,,,,,2,2,,2,107,0%,67%,0.231
+Wallisellen: Baustellen-Grosskontrollen zeigen ein gutes Ergebnis,3,3,138,,3,0.003,0.814,,,,,,3,,,46,0%,0%,0.277
+Wallisellen: Vermisstmeldung - Revoziert,3,3,36,1,3,0.057,1.842,2,11,196,1,1,3,2,1,12,50%,33%,0.878
+Winterthur/A1: Verkehrsunfall zwischen einem Lastwagen und einem Lieferwagen fordert einen Verletzten,3,4,896,,3,0.068,0.709,,,,,1,3,,1,224,0%,33%,0.449
+Winterthur: Mutmasslicher Einbrecher in flagranti verhaftet,3,3,7,,3,0.005,0.919,1,1,0,1,2,3,1,2,2,100%,67%,0.589
+Winterthur A1: Auffahrkollision zwischen zwei Lastwagen und einem Reisecar fordert viele Verletzte - Zeugenaufruf,3,7,49,,4,0.001,0.915,1,1,0,1,1,3,1,1,7,100%,33%,0.235
+Zürcher Unterland: Zahlreiche Einsätze nach heftigem Gewitter,3,3,22,,3,0.061,0.875,2,2,0,2,2,3,2,2,7,100%,67%,0.542
+Zürich 1: Zwei Männer bei Auseinandersetzung verletzt - Zeugenaufruf,3,3,31,,3,0.108,0.98,1,15,119,0,1,3,1,1,10,0%,33%,0.556
+Zürich: Sechs mutmassliche Drogenhändler verhaftet und Drogen sichergestellt,3,4,55,,4,0.002,0.902,,,,,,3,,,14,0%,0%,0.408
+2017,2,3,30,2,3,0.005,0.679,,,,,,2,,,10,0%,0%,0.452
+A1/Seuzach: Carkontrollen auf Rastplätzen durchgeführt,2,2,22,,2,0.003,0.003,,,,,,2,,,11,0%,0%,0.003
+A1: Carkontrolle zwischen Wallisellen und Winterthur,2,2,54,,2,0.002,0.003,,,,,,2,,,27,0%,0%,0.003
+A1L Zürich: Grosser Sachschaden nach Verkehrsunfall,2,4,193,,3,0.035,0.679,2,6,195,0,2,2,2,2,48,0%,100%,0.429
+A3/Altendorf SZ: Ein Toter und zwei Verletze bei Verkehrsunfall - Zeugenaufruf,2,2,0,,2,0.015,0.114,2,2,0,2,2,1,1,1,0,100%,100%,0.065
+A3/Stallikon: Selbstunfall fordert Todesopfer,2,3,184,,3,0.007,0.692,2,5,185,1,2,1,1,1,61,50%,100%,0.412
+A3/Wettswil: Schwerer Verkehrsunfall fordert mehrere Verletzte - Zeugenaufruf,2,2,869,,2,0.118,0.95,1,4,17,0,,2,1,,435,0%,0%,0.534
+Adliswil: Indoor-Hanfanlage ausgehoben – Betreiber verhaftet,2,2,0,,2,2.03,2.337,2,2,0,2,2,2,2,2,0,100%,100%,2.184
+Adliswil: Selbstunfall mit Mofa fordert Todesopfer,2,3,73,,3,0.004,0.743,,,,,,2,,,24,0%,0%,0.492
+Aeugst am Albis: Hoher Sachschaden nach Wohnungsbrand,2,2,0,,2,0.882,1.631,2,2,0,2,2,2,2,2,0,100%,100%,1.257
+Andelfingen A4: Selbstunfall fordert Verletzten,2,2,7,,2,0.7,1.866,1,1,0,1,1,2,1,1,4,100%,50%,1.283
+Bassersdorf: Brand in Altliegenschaft - Zeugenaufruf,2,2,29,,2,0.562,1.483,,,,,1,2,,1,15,0%,50%,1.023
+Bassersdorf: Verkehrsunfall fordert verletzten Radfahrer,2,4,405,,4,0.013,1.187,2,5,407,0,1,2,2,1,101,0%,50%,0.472
+Bezirk Dietikon: Kontrolle von Glücksspiellokalen,2,2,65,,2,0.003,0.527,,,,,,2,,,33,0%,0%,0.265
+Bezirke Dietikon und Affoltern a. A: Indoor-Hanfplantagen ausgehoben,2,3,48,,2,0.003,1.063,1,1,0,1,1,2,1,1,16,100%,50%,0.533
+Bezirk Horgen und Zürich: Zwei Rentnerinnen wurden Opfer von Telefonbetrügern,2,3,350,,2,0.003,0.652,,,,,,2,,,117,0%,0%,0.328
+Bezirk Winterthur: Regionale Polizeikontrolle,2,2,55,,2,0.528,1.567,,,,,,2,,,28,0%,0%,1.048
+Birmensdorf: Umzug des Polizeipostens,2,2,207,,2,0.095,1.161,2,12,365,1,1,2,2,1,104,50%,50%,0.628
+Brütten: Motorrad mit Auto kollidiert – Zeugenaufruf,2,2,0,,2,0.071,1.277,2,2,0,2,2,2,2,2,0,100%,100%,0.674
+Bubikon: Tödlicher Arbeitsunfall,2,2,0,,2,0.174,1.705,2,2,0,2,2,2,2,2,0,100%,100%,0.94
+Buchs: Schwerverletzter durch Verkehrsunfall,2,2,0,,1,0.002,0.002,1,1,0,1,2,2,1,2,0,100%,100%,0.002
+Buchs: Wohnung ausgebrannt,2,2,111,,2,0.609,0.692,1,6,313,0,,2,1,,56,0%,0%,0.651
+Bäretswil: Selbstunfall fordert schwer verletzten Motorradfahrer,2,2,31,,2,0.51,0.667,1,1,0,1,1,2,1,1,16,100%,50%,0.589
+Dietikon: Brand eine Traktors mit Anhänger,2,2,0,,2,0.001,0.002,2,2,0,2,2,2,2,2,0,100%,100%,0.002
+Dietikon: Verkehrsunfall zwischen Personenwagen und Fussgänger - Zeugenaufruf,2,2,8,,1,1.042,1.042,1,1,0,1,1,2,1,1,4,100%,50%,1.042
+Dinhard: Ein Verletzter bei Verkehrsunfall - Zeugenaufruf,2,2,0,,2,0.613,0.643,2,2,0,2,2,2,2,2,0,100%,100%,0.628
+Dinhard: Tödlicher Arbeitsunfall,2,3,131,,3,0.066,0.692,2,3,132,1,2,2,2,2,44,50%,100%,0.293
+Dübendorf: Verkäufer von gefälschten Uhren verhaftet,2,3,19,,2,0.003,0.077,1,1,0,1,1,2,1,1,6,100%,50%,0.04
+Effretikon/Zürich/Frauenfeld: Gesuchter Räuber verhaftet,2,2,71,,2,0.003,0.708,,,,,,2,,,36,0%,0%,0.356
+Embrach: Zwei mutmassliche Drogenhändler verhaftet,2,2,2,,2,0.02,1.121,1,1,0,1,1,2,1,1,1,100%,50%,0.571
+Fehraltorf: Schwerverletzter nach Brand in Auto,2,2,8,,2,0.591,1.32,,,,,1,2,,1,4,0%,50%,0.956
+Fehraltorf: Unfall eines Kleinflugzeuges auf dem Flugplatz Speck,2,2,0,,2,0.039,1.247,2,2,0,2,2,2,2,2,0,100%,100%,0.643
+Flughafen Zürich: Zigarettenschmuggel aufgedeckt,2,2,1156,,2,0.004,0.918,,,,,,2,,,578,0%,0%,0.461
+Freienstein-Teufen: Tödlicher Badeunfall - Zeugenaufruf,2,2,15,,2,0.621,0.638,,,,,,2,,,8,0%,0%,0.63
+Geschäftsbericht 2016 veröffentlicht,2,2,92,,2,0.01,1.018,,,,,,2,,,46,0%,0%,0.514
+Glattbrugg: Kollision mit Motorrad - Zeugenaufruf,2,2,39,,0,,0,1,6,368,0,,2,1,,20,0%,0%,0
+Glattfelden/Zürich: Mutmassliche Enkeltrickbetrüger verhaftet,2,3,20,,1,0.783,0.783,2,9,117,1,2,2,2,2,7,50%,100%,0.783
+Glattfelden: Fahrradlenker bei Unfall verletzt - Zeugenaufruf,2,2,11,,2,0.626,1.219,1,1,0,1,1,2,1,1,6,100%,50%,0.923
+Hinwil: Friedliches Openair „Rock the Ring“,2,2,30,,2,0.003,1.274,1,3,26,0,,2,1,,15,0%,0%,0.639
+Hinwil: Geldautomat aufgebrochen - Zeugenaufruf,2,2,10,,2,0.029,1.606,,,,,,2,,,5,0%,0%,0.818
+Hinwil: Selbstunfall fordert Schwerverletzten,2,2,463,,2,0.023,0.769,1,7,189,0,1,1,1,1,232,0%,50%,0.396
+Horgen: Mit Arbeitsmaschine verunfallt,2,3,75,,2,0.003,0.135,1,1,0,1,1,2,1,1,25,100%,50%,0.069
+Illnau-Effretikon: Mann bei Zwischenfall im Bahnhof verstorben,2,2,25,,2,0.644,0.853,,,,,,2,,,13,0%,0%,0.749
+Kantonspolizei Zürich: Neuer Dienstchef Mediendienst,2,2,17,,2,0.01,1.485,1,14,299,0,1,2,1,1,9,0%,50%,0.748
+Kanton Zürich: Anwendungsanpassung beim Besitz von Cannabis bei Erwachsenen,2,2,0,,2,0.161,0.723,2,2,0,2,2,2,2,2,0,100%,100%,0.442
+Kanton Zürich: Bettler auf Friedhöfen und bei Autobahnen unterwegs,2,2,0,,2,0.939,1.267,2,2,0,2,2,2,2,2,0,100%,100%,1.103
+Kanton Zürich: Fussgänger/Licht - Verkehrspolizeiliche Schwerpunktation,2,2,8,,2,0.003,0.625,1,1,0,1,1,2,1,1,4,100%,50%,0.314
+Kanton Zürich: Sturmwarnung, Hinweise zur Gefahrenabwehr,2,4,32,,3,0.001,1.449,,,,,1,2,,1,8,0%,50%,0.484
+Kloten: Zwei Personen bei Polizeieinsatz verhaftet,2,2,94,1,2,0.003,0.094,,,,,,2,,,47,0%,0%,0.049
+Kontaktanfrage Brückenbauer,2,2,73,,2,0.005,0.785,,,,,,2,,,37,0%,0%,0.395
+Kontaktanfrage Präventionsmobil,2,5,378,,3,0.003,0.552,,,,,1,2,,1,76,0%,50%,0.187
+Massnahmen gegen E-Bike-Unfälle,2,2,9,,2,0.001,0.794,,,,,1,2,,1,5,0%,50%,0.398
+Mönchaltdorf: Verletzter E-Bikefahrer aufgefunden - Zeugenaufruf,2,2,35,,2,0.543,1.261,,,,,,2,,,18,0%,0%,0.902
+Online police stations,2,2,23,,2,0.859,2.185,,,,,1,2,,1,12,0%,50%,1.522
+Opfikon: Brand eines Wohnwagens,2,2,393,,0,,0,,,,,,2,,,197,0%,0%,0
+Opfikon: Grosser Sachschaden bei Verkehrsunfall,2,2,39,,0,,0,,,,,1,2,,1,20,0%,50%,0
+Rafz: Arbeiter von Gerüst gestürzt und verletzt,2,2,257,,2,0.02,0.538,,,,,,2,,,129,0%,0%,0.279
+Rheinau/Neuhausen: Autolenker fährt Velofahrer an und gibt Schuss auf Helfer ab - Zeugenaufruf,2,2,55,,2,0.003,0.024,,,,,,2,,,28,0%,0%,0.014
+Schlieren: Verkehrsunfall fordert fünf Verletzte - Zeugenaufruf,2,2,45,,2,0.601,1.467,,,,,,2,,,23,0%,0%,1.034
+Seuzach/A1: Carkontrolle auf dem Rastplatz Forrenberg,2,2,35,,2,0.002,0.539,,,,,,2,,,18,0%,0%,0.271
+Stallikon: Schnellfahrer angehalten,2,2,43,,2,0.588,0.935,,,,,,2,,,22,0%,0%,0.762
+Thalwil: Verletzter Velofahrer aufgefunden - Zeugenaufruf,2,2,27,,2,0.682,1.518,,,,,,2,,,14,0%,0%,1.1
+Uitikon: Drei Verletzte bei Arbeitsunfall,2,2,21,,2,0.02,0.737,1,2,19,0,,2,1,,11,0%,0%,0.379
+Unterengstringen: Zwei Raser festgenommen und Sportwagen sichergestellt,2,2,54,,2,0.691,0.734,,,,,1,2,,1,27,0%,50%,0.713
+Urdorf: Mutmassliche Einbrecher verhaftet,2,2,554,,2,0.005,1.554,,,,,,2,,,277,0%,0%,0.78
+Urdorf: Verhaftungen bei Kontrolle in Notunterkunft,2,2,127,,2,0.005,1.094,1,3,48,0,,2,1,,64,0%,0%,0.55
+Uster: Gasleitung beschädigt,2,2,78,,1,0.003,0.003,,,,,,2,,,39,0%,0%,0.003
+Vereidigung der Polizeischule 1/2011,2,7,1252,,2,0.005,0.005,,,,,1,2,,1,179,0%,50%,0.005
+Volketswil: Frau bei Verkehrsunfall schwer verletzt,2,2,2,,2,0.102,1.133,,,,,1,2,,1,1,0%,50%,0.618
+Volketswil: Velofahrer verunfallt und schwer verletzt,2,2,33,,2,0.552,1.289,,,,,,2,,,17,0%,0%,0.921
+Winterthur: Brand in Tiefgarage,2,3,881,,3,0.009,0.827,1,4,866,0,,2,1,,294,0%,0%,0.291
+Zürich 3: Mutmasslicher Räuber verhaftet,2,2,50,,2,0.003,0.525,,,,,,2,,,25,0%,0%,0.264
+Zürich: Mann besteigt Baukran der Baustelle Hauptbahnhof,2,4,175,,4,0.024,0.96,,,,,1,2,,1,44,0%,50%,0.406
+Zürich: Vater mit Kleinkind dringend gesucht - Fahndungsaufruf,2,2,48,,2,0.003,0.627,,,,,,2,,,24,0%,0%,0.315
+A3/Richterswil: Kollision mit Mittelleitplanke – Zeugenaufruf,1,1,4,,1,0.822,0.822,,,,,,1,,,4,0%,0%,0.822
+Eglisau/Rafz: Verdacht Tötungsdelikt – Täterfahndung mit Filmsequenzen,1,1,32,,1,0.623,0.623,,,,,,1,,,32,0%,0%,0.623
+Eglisau/Rafz: Verdacht Tötungsdelikt – zwei Personen verhaftet,1,1,537,,1,0.624,0.624,,,,,,1,,,537,0%,0%,0.624
+Embrach/Greifensee: Küchenbrände verursachen grossen Schaden,1,1,3,,1,0.005,0.005,,,,,,1,,,3,0%,0%,0.005
+Embrach/Winterthur: Junges Einbrecherduo verhaftet,1,1,7,,1,0.006,0.006,,,,,,1,,,7,0%,0%,0.006
+Winterthur/A1: Carkontrolle auf verschiedenen Rastplätzen,1,2,30,,2,0.002,0.003,,,,,,1,,,15,0%,0%,0.003
+Zürich/A3: Kollision zwischen zwei Lastwagen und einem Lieferwagen,1,1,0,,1,0.014,0.014,1,1,0,1,1,1,1,1,0,100%,100%,0.014
+Zürich/Schlieren: Vermisste May Soledad Koch aufgefunden,1,1,0,,1,0.016,0.016,,,,,1,1,,1,0,0%,100%,0.016
+Zürich/Zollikerberg - Vermisstmeldung Rosmarie Willi - revoziert am 27.1.2014,1,1,108,,1,0.996,0.996,,,,,,1,,,108,0%,0%,0.996
