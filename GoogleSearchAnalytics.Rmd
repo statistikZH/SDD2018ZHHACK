@@ -1,6 +1,12 @@
 ---
-title: "Challenge 4:  Online Search Behaviour and Government Information"
-output: html_notebook
+title: 'Challenge 4:  Online Search Behaviour and Government Information'
+output: 
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+    toc: true 
+    number_sections: true 
+    df_print: paged
 ---
 
 ```{r, message = F, warning = F}
@@ -21,11 +27,11 @@ data <- read_csv("google_search.csv") %>% data.frame()
 
 ## Frequency of search terms?
 ### Single terms : count
-```{r}
-data %>% 
-  group_by( factor(Suchanfragen)) %>% 
-  summarise(begriffe = sum(as.numeric(Klicks))) %>% 
-  ungroup() 
+```{r, fig.height=12}
+# data %>% 
+#   group_by( factor(Suchanfragen)) %>% 
+#   summarise(begriffe = sum(as.numeric(Klicks))) %>% 
+#   ungroup() 
 
 begriffe <- data %>% 
   # mutate_at(vars(Suchanfragen), funs(tolower(.))) %>% 
@@ -62,7 +68,7 @@ begriffe_count %>%
 The idea of tf-idf is to find the important words for the content of each document by decreasing the weight for commonly used words and increasing the weight for words that are not used very much in a collection or corpus of documents
 
 
-```{r}
+```{r, fig.height=12}
 begriffe_bed <- begriffe_count %>%
   bind_tf_idf(word, top_domain, n) %>% 
   arrange(desc(tf_idf))
@@ -82,7 +88,7 @@ begriffe_bed %>%
 
 
 ## Expressions
-```{r}
+```{r, fig.height=12}
 
 ausdruck <- data %>% 
   select(-Impressionen, -CTR, -Position, -time) %>% 
@@ -118,9 +124,6 @@ ausdruck_united <- ausdruck_filtered %>%
   count(bigram,  sort = TRUE) %>% 
   ungroup()
   
-  
-
-
 ausdruck_united %>%  
   arrange(desc(n)) %>% 
   # mutate(word = factor(word, levels = rev(unique(word)))) %>%
@@ -147,3 +150,16 @@ topics <- read_csv("zhch_topics_a-z.csv") %>% data.frame() %>% select(-X1)
 
 ```
 
+# Search & Webanalytics data for statistik.zh.ch / kapo.zh.ch
+
+How to load all the search & web traffic datasets of the cantonal police and the statistical office.
+```{r}
+
+filenames <- gsub("\\.csv$","", list.files(path = "./kapo_statistik_webanalytics&search/",pattern="\\.csv$"))
+
+# load datasets
+for(i in filenames){
+  assign(i, read.csv(paste("./kapo_statistik_webanalytics&search/",i, ".csv", sep="")))
+}
+
+```
