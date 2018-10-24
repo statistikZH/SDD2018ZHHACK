@@ -19,3 +19,7 @@ This dataset contains search terms, clicks, impressions etc. related to all the 
 
 [data as .zip](https://github.com/statistikZH/SDD2018ZHHACK/raw/master/kapo_statistik_webanalytics%26search.zip)
 
+## How to load the data into R & some first examples 
+
+https://statistikzh.github.io/SDD2018ZHHACK/GoogleSearchAnalytics.html
+
