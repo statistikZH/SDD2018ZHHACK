@@ -1,0 +1,149 @@
+---
+title: "Challenge 4:  Online Search Behaviour and Government Information"
+output: html_notebook
+---
+
+```{r, message = F, warning = F}
+library(readxl)
+library(tidyverse)
+
+library(tm)
+library(tidytext)
+
+```
+
+
+# Google search data
+
+```{r}
+data <- read_csv("google_search.csv") %>% data.frame()
+```
+
+## Frequency of search terms?
+### Single terms : count
+```{r}
+data %>% 
+  group_by( factor(Suchanfragen)) %>% 
+  summarise(begriffe = sum(as.numeric(Klicks))) %>% 
+  ungroup() 
+
+begriffe <- data %>% 
+  # mutate_at(vars(Suchanfragen), funs(tolower(.))) %>% 
+  unnest_tokens(word, Suchanfragen, token = "words", to_lower = T) %>% 
+  anti_join(get_stopwords(language = "en")) %>% 
+  anti_join(get_stopwords(language = "de")) %>% 
+  anti_join(get_stopwords(language = "fr")) %>% 
+  filter(!word %in% c("kanton", "schweiz", "zürich", "zh", "winterthur", "2018", "2019", "2017", "deutsch", "stadt")) 
+
+
+begriffe_count <- begriffe %>% 
+  count(top_domain, word) %>% 
+  ungroup() %>% 
+  arrange(desc(n)) %>% 
+  mutate(word = factor(word, levels = rev(unique(word)))) %>%
+  group_by(top_domain) %>% 
+  top_n(10, n) %>%
+  ungroup() 
+
+begriffe_count %>%  
+  ggplot(aes(x = word, y = n, fill = top_domain)) +
+  geom_col(show.legend = FALSE) +
+  labs(x = NULL, y = "Anzahl") +
+  facet_wrap(~top_domain, ncol = 2, scales = "free_y") +
+  coord_flip()+
+  theme_minimal()+
+  theme(panel.grid.major.y = element_blank())+NULL
+  
+  
+  
+```
+
+### Importance
+The idea of tf-idf is to find the important words for the content of each document by decreasing the weight for commonly used words and increasing the weight for words that are not used very much in a collection or corpus of documents
+
+
+```{r}
+begriffe_bed <- begriffe_count %>%
+  bind_tf_idf(word, top_domain, n) %>% 
+  arrange(desc(tf_idf))
+
+begriffe_bed %>% 
+  mutate(word = factor(word, levels = rev(unique(word)))) %>% 
+  group_by(top_domain) %>% 
+  top_n(15) %>% 
+  ungroup %>%
+  ggplot(aes(word, tf_idf, fill = top_domain)) +
+  geom_col(show.legend = FALSE) +
+  labs(x = NULL, y = "tf-idf") +
+  facet_wrap(~top_domain, ncol = 2, scales = "free_y") +
+  coord_flip()+
+  theme_minimal()
+```
+
+
+## Expressions
+```{r}
+
+ausdruck <- data %>% 
+  select(-Impressionen, -CTR, -Position, -time) %>% 
+  # mutate_at(vars(Suchanfragen), funs(tolower(.))) %>% 
+  left_join(., data %>% 
+                unnest_tokens(bigram, Suchanfragen, token = "ngrams", n = 2),
+            by = c('sheet', 'Klicks', 'top_domain')) %>% 
+  mutate(bigram = ifelse(is.na(bigram), Suchanfragen, bigram)) %>% 
+  separate(bigram, c("word1", "word2"), sep = " ") %>% 
+  filter(!word1 %in% c("kanton", "schweiz", "zürich", "zh", "winterthur", "2018", "2019", "2017", "deutsch", "stadt")) %>% 
+  filter(!word2 %in% c("kanton", "schweiz", "zürich", "zh", "winterthur", "2018", "2019", "2017", "deutsch", "stadt"))
+
+ausdruck_filtered <- ausdruck %>%
+  # filter(!word1 %in% stop_words$word) %>%
+  # filter(!word2 %in% stop_words$word) %>% 
+  filter(!word1 %in% c("kanton", "schweiz", "zürich", "zh", "winterthur", "2018", "2019", "2017", "deutsch", "stadt")) %>% 
+  # filter(!word2 %in% c("kanton", "schweiz", "zürich", "zh", "winterthur", "2018", "2019", "2017", "deutsch", "stadt")) %>% 
+  filter(!word2 %in% c("kanton", "schweiz", "zürich", "zh", "winterthur", "2018", "2019", "2017", "deutsch", "stadt")) %>% 
+  filter(is.na(word1)==F )
+
+# new bigram counts:
+ausdruck_counts <- ausdruck_filtered %>% 
+  group_by(top_domain, word1, word2) %>% 
+  summarise(klicks = sum(Klicks)) %>% 
+  ungroup() %>% 
+  group_by(top_domain) %>% 
+  count(word1, word2,  sort = TRUE) %>% 
+  ungroup()
+  
+ausdruck_united <- ausdruck_filtered %>%
+  unite(bigram, word1, word2, sep = " ") %>% 
+  group_by(top_domain) %>% 
+  count(bigram,  sort = TRUE) %>% 
+  ungroup()
+  
+  
+
+
+ausdruck_united %>%  
+  arrange(desc(n)) %>% 
+  # mutate(word = factor(word, levels = rev(unique(word)))) %>%
+  group_by(top_domain) %>% 
+  top_n(10, n) %>%
+  ungroup() %>% 
+  ggplot(aes(x = bigram, y = n, fill = top_domain)) +
+  geom_col(show.legend = FALSE) +
+  labs(x = NULL, y = "Anzahl") +
+  facet_wrap(~top_domain, ncol = 2, scales = "free_y") +
+  coord_flip()+
+  theme_minimal()+
+  theme(panel.grid.major.y = element_blank())+NULL
+```
+
+
+# Search terms vs topics "official language" 
+
+
+```{r}
+
+topics <- read_csv("zhch_topics_a-z.csv") %>% data.frame() %>% select(-X1)
+
+
+```
+
