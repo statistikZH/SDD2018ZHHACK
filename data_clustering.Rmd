@@ -3,18 +3,30 @@ title: "Data Clustering"
 output: html_document
 ---
 
+
+```{r}
+library(readxl)
+library(tidyverse)
+
+library(tm)
+library(tidytext)
+```
+
+
 # extract single words
 
 ```{r}
 require("tm")
 
+data <- read_csv("google_search.csv") %>% data.frame()
+
 jahre <- seq(1990, 2020, 1)
 
+gemeinde <- read_csv("municipalities.csv") %>% data.frame() %>% pull(Name) %>% tolower()
 
+delete_words <-c("kanton", "schweiz", "zürich", "zh", "winterthur",  "deutsch", "stadt", jahre, gemeinde)
 
-delete_words <-c("kanton", "schweiz", "zürich", "zh", "winterthur",  "deutsch", "stadt", jahre)
-
-domains <- data %>% select(top_domain) %>% distinct()
+domains <- data %>% dplyr::select(top_domain) %>% distinct()
 
 data1 <- data %>% 
   filter(time == "Jahr") %>% 
