@@ -153,6 +153,7 @@ topics <- read_csv("zhch_topics_a-z.csv") %>% data.frame() %>%
 topics %>% 
     left_join(begriffe, by=c("Thema"="word")) %>% 
     group_by(Thema) %>% 
+
     summarize(clicks=sum(Klicks)) %>% 
     arrange(desc(clicks))
 
