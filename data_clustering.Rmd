@@ -3,7 +3,7 @@ title: "Data Clustering"
 output: html_document
 ---
 
-
+# extract single words
 
 ```{r}
 require("tm")
@@ -14,8 +14,35 @@ jahre <- seq(1990, 2020, 1)
 
 delete_words <-c("kanton", "schweiz", "zürich", "zh", "winterthur",  "deutsch", "stadt", jahre)
 
+domains <- data %>% select(top_domain) %>% distinct()
+
+data1 <- data %>% 
+  filter(time == "Jahr") %>% 
+  unnest_tokens(word, Suchanfragen, token = "words", to_lower = T, drop = F) %>% 
+  filter(! word %in% delete_words) %>% 
+  anti_join(get_stopwords(language = "en")) %>%
+  anti_join(get_stopwords(language = "de")) %>%
+  anti_join(get_stopwords(language = "fr")) %>%
+  group_by(top_domain, word) %>% 
+  summarise(n = n(),
+              klicks = sum(Klicks),
+            impressions = sum(Impressionen)) %>% 
+  ungroup %>% 
+  group_by(word) %>% 
+  mutate(sum_impressions = sum(impressions)) %>%
+  mutate(count_domains = row_number()) %>% 
+  ungroup() %>% 
+  filter(sum_impressions > 500 & count_domains > 1)
 
 
+
+
+
+```
+
+# word expressions
+
+```{r}
 data2 <- data %>% 
   filter(time == "Jahr") %>% 
   mutate(words_deleted = str_trim(removeWords(Suchanfragen, delete_words), side = "both")) %>% 
@@ -28,7 +55,29 @@ data2 <- data %>%
             impressions = sum(Impressionen)) %>% 
   ungroup()
 
+```
 
+
+# Word stem
+
+```{r}
+data3 <- data2%>% 
+  mutate(word_stem = stemDocument(words_clean, language = "german"))
+```
+
+
+# bigram
+
+```{r}
+data3 <- data2 %>%
+  unnest_tokens(bigram, words_clean, token = "ngrams", n = 2 , drop = F) %>% 
+  mutate(bigram2 = ifelse(is.na(bigram), words_clean, bigram)) %>% 
+    group_by(top_domain, bigram2) %>% 
+  summarise(n = sum(n),
+            nn = n(),
+              klicks = sum(klicks),
+            impressions = sum(impressions)) %>% 
+  ungroup()
 ```
 
 
