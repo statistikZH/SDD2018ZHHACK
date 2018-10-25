@@ -10,6 +10,9 @@
 library(tidyverse)
 library(shinythemes)
 library(shiny)
+library(plotly)
+
+source("helpers.R")
 
 data <- read_csv("google_search.csv") %>% 
         data.frame()
@@ -38,20 +41,38 @@ ui <- fluidPage(
 fluidRow(
   column(4, selectizeInput('searchselect', label= 'search terms',choices = searchterms, 
                          multiple = TRUE,selected = "zürich", options= list(maxItems = 10))),
-  column(4,  selectInput('domainselect', label='subdomain', choices=top_domain, selected = NULL, multiple = TRUE, selectize = TRUE))
+  column(4,  selectInput('domainselect', label='subdomain', choices=top_domain, selected = top_domain, multiple = TRUE, selectize = TRUE))
       ),
 column(12,"By checking the checkboy below you can decompose the search terms into single words."),
 column(4, checkboxInput("checkbox", label="single terms", value = FALSE)),
 column(4, checkboxInput("checkbox_year", label="include all domains (caution : varying timespans!)", value = FALSE)),
   
-  mainPanel(   )
-       # placeholder for plot         , plotOutput("bvplot"))
+  mainPanel( plotlyOutput("sankey")  )
+
 )
 
 
 # SERVER LOGIC  --------------------
 
 server <- function(input, output) {
+  
+  
+  output$sankey <- renderPlotly({
+    
+    if(!is.null(input$domainselect)){
+      
+      data_filtered <- data[which(data$Suchanfragen %in% input$searchselect),]
+      
+      zhweb(dat_processing(data_filtered,single_word=input$checkbox,filter_yr=input$checkbox_year)) 
+      
+    }else{
+      
+      zhweb(domain_filter(data,input$domainselect,input$checkboy_year)) 
+    }
+      
+    
+  })
+  
   
   
 }
