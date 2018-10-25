@@ -11,10 +11,6 @@ library(tidyverse)
 library(shinythemes)
 library(shiny)
 
-library(statR)
-
-statR::zhpal$zhcd
-
 data <- read_csv("google_search.csv") %>% 
         data.frame()
 
@@ -34,15 +30,19 @@ ui <- fluidPage(
                    tags$a(href="http://www.zh.ch", tags$img(src="lionwhite.png", height="90%"), target="_blank")),
                    tags$style("header {background-color: #009ee0 ;padding-top:10px;height:60px}")),
   # Application title
-  titlePanel("zhsearch"),
-  
+  titlePanel("sear.zh"),
+  "This shiny-App has been developed at the Swiss Digital Day - Hackathon 2018. It reveals which Google search keywords led people to the website of the canton of Zurich and its subdomains.
+  It allows the visualization of relationships between search terms and domains of zh.ch. ",
+  br(),
   # Show a plot of the generated distribution
 fluidRow(
   column(4, selectizeInput('searchselect', label= 'search terms',choices = searchterms, 
                          multiple = TRUE,selected = "zürich", options= list(maxItems = 10))),
   column(4,  selectInput('domainselect', label='subdomain', choices=top_domain, selected = NULL, multiple = TRUE, selectize = TRUE))
       ),
-column(6, checkboxInput("checkbox", label="single terms or entire keywords", value = FALSE)),
+column(12,"By checking the checkboy below you can decompose the search terms into single words."),
+column(4, checkboxInput("checkbox", label="single terms", value = FALSE)),
+column(4, checkboxInput("checkbox_year", label="include all domains (caution : varying timespans!)", value = FALSE)),
   
   mainPanel(   )
        # placeholder for plot         , plotOutput("bvplot"))
