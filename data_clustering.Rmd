@@ -1,0 +1,34 @@
+---
+title: "Data Clustering"
+output: html_document
+---
+
+
+
+```{r}
+require("tm")
+
+jahre <- seq(1990, 2020, 1)
+
+
+
+delete_words <-c("kanton", "schweiz", "zürich", "zh", "winterthur",  "deutsch", "stadt", jahre)
+
+
+
+data2 <- data %>% 
+  filter(time == "Jahr") %>% 
+  mutate(words_deleted = str_trim(removeWords(Suchanfragen, delete_words), side = "both")) %>% 
+  group_by(Suchanfragen) %>%
+  ungroup() %>% 
+  mutate(words_clean = ifelse(nchar(words_deleted)==0, Suchanfragen, words_deleted)) %>% 
+  group_by(top_domain, words_clean) %>% 
+  summarise(n = n(),
+              klicks = sum(Klicks),
+            impressions = sum(Impressionen)) %>% 
+  ungroup()
+
+
+```
+
+
