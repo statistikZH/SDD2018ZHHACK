@@ -9,7 +9,7 @@ output:
     df_print: paged
 ---
 
-```{r, message = F, warning = F}
+```{r, message = F, warning = F,cache=TRUE}
 library(readxl)
 library(tidyverse)
 
@@ -27,7 +27,7 @@ data <- read_csv("google_search.csv") %>% data.frame()
 
 ## Frequency of search terms?
 ### Single terms : count
-```{r, fig.height=12}
+```{r, fig.height=12,cache=TRUE}
 # data %>% 
 #   group_by( factor(Suchanfragen)) %>% 
 #   summarise(begriffe = sum(as.numeric(Klicks))) %>% 
@@ -68,7 +68,7 @@ begriffe_count %>%
 The idea of tf-idf is to find the important words for the content of each document by decreasing the weight for commonly used words and increasing the weight for words that are not used very much in a collection or corpus of documents
 
 
-```{r, fig.height=12}
+```{r, fig.height=12,cache=TRUE}
 begriffe_bed <- begriffe_count %>%
   bind_tf_idf(word, top_domain, n) %>% 
   arrange(desc(tf_idf))
@@ -88,7 +88,7 @@ begriffe_bed %>%
 
 
 ## Expressions
-```{r, fig.height=12}
+```{r, fig.height=12,cache=TRUE}
 
 ausdruck <- data %>% 
   select(-Impressionen, -CTR, -Position, -time) %>% 
@@ -143,7 +143,9 @@ ausdruck_united %>%
 # Search terms vs topics "official language" 
 
 
-```{r}
+```{r,cache=TRUE}
+
+library(DT)
 
 topics <- read_csv("zhch_topics_a-z.csv") %>% data.frame() %>% 
           select(-X1) %>% 
@@ -153,20 +155,57 @@ topics <- read_csv("zhch_topics_a-z.csv") %>% data.frame() %>%
 topics %>% 
     left_join(begriffe, by=c("Thema"="word")) %>% 
     group_by(Thema) %>% 
-
     summarize(clicks=sum(Klicks)) %>% 
-    arrange(desc(clicks))
+    arrange(desc(clicks)) %>% 
+    DT::datatable()
 
 # topics that do not occur (no exat matches)
-nomatches <-topics %>% 
-            anti_join(begriffe, by=c("Thema"="word"))
+# nomatches <-topics %>% 
+#             anti_join(begriffe, by=c("Thema"="word"))
+
+
+# library(fuzzyjoin)
+# library(tidyverse)
+# 
+# # topics that do occur in search terms (exact matches only)
+# fuzzymachtes <- topics %>% 
+#     stringdist_inner_join(begriffe, by=c(Thema=word)) %>% 
+#     group_by(Thema) %>% 
+#     summarize(clicks=sum(Klicks)) %>% 
+#     arrange(desc(clicks))
+# 
+# diamonds %>%
+#  stringdist_inner_join(d, by = c(cut = "approximate_name"))
+
+
+
+```
+# Search terms clustering
+```{r,cache=TRUE}
+
+top100<-begriffe %>% 
+  top_n(100, Klicks) 
+
+mat <- adist(top100$word)
+
+rownames(mat) <- colnames(mat) <- top100$word
+
+d <- as.dist(mat)
+hc <- hclust(d, method = "average")
+plot(hc)
+
+# k <- 6 # choose a 2-cluster-solution
+# rect.hclust(hc, k=k)
+# clusters <- cutree(hc, k=k)
+# split(text, clusters)
+
 
 ```
 
 # Search & Webanalytics data for statistik.zh.ch / kapo.zh.ch
 
 How to load all the search & web traffic datasets of the cantonal police and the statistical office.
-```{r}
+```{r,cache=TRUE}
 
 filenames <- gsub("\\.csv$","", list.files(path = "./kapo_statistik_webanalytics&search/",pattern="\\.csv$"))
 
@@ -176,3 +215,13 @@ for(i in filenames){
 }
 
 ```
+
+# 
+```{r}
+
+
+
+
+```
+
+
