@@ -43,8 +43,10 @@ data1 <- data %>%
   group_by(word) %>% 
   mutate(sum_impressions = sum(impressions)) %>%
   mutate(count_domains = row_number()) %>% 
+  mutate(max_domains = max(count_domains)) %>% 
   ungroup() %>% 
-  filter(sum_impressions > 500 & count_domains > 1)
+  filter(max_domains > 1)
+
 
 
 
