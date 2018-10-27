@@ -31,7 +31,8 @@ ui <- fluidPage(
   theme = "bootstrap.css",
   tags$header(list(tags$style("img {display:inline-block;background-repeat:no-repeat;position:relative;left:10px;z-index:3;}"),
                    tags$a(href="http://www.zh.ch", tags$img(src="lionwhite.png", height="90%"), target="_blank")),
-              tags$style("header {background-color: #009ee0 ;padding-top:10px;height:60px}")),
+                   tags$style("header {background-color: #009ee0 ;padding-top:10px;height:60px}"),
+                   tags$style(".h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { font-family: Arial Black;}")),
   # Application title
   titlePanel("sear.zh"),
   "This shiny-App has been developed at the Swiss Digital Day - Hackathon 2018. It reveals which Google search keywords led people to the website of the canton of Zurich and its subdomains.
